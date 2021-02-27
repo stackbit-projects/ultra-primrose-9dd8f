@@ -4,7 +4,9 @@ subtitle: Evaluation metric and building linear regression model
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  It turns out that Sklearn quite slow for several task, can we make things
+  better with Numba, or even Numpy ?
 seo:
   title: ''
   description: ''
