@@ -6,7 +6,7 @@ params:
   header:
     title: Vinson Ciawandy
     tagline: Data Science | Analytics | Mathematics
-    profile_img: images/avatar.png
+    profile_img: images/image.png
     profile_img_alt: Author avatar
     background: dark
     has_nav: true
