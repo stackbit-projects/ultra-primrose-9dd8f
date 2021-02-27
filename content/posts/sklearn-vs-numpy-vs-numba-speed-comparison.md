@@ -13,18 +13,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
-
----
-title: "Sklearn vs Numpy vs Numba speed comparison (Evaluation metric and building linear regression model)"
-date: 2021-02-20T11:40:27+07:00
-draft: false
----
 
 Welcome to my first blog. Recently I started to develop my package, and my priorities are maximizing speed. I found many things in Sklearn that works quite slow. This is not a blog about tutorial using Sklearn, NumPy or Numba but this blog serves purpose for speed comparison across several libraries.  
 tldr, just skip to the [conclusion part](#conclusion)
