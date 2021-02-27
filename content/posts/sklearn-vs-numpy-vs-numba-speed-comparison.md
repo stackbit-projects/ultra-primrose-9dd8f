@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Sklearn vs Numpy vs Numba speed comparison
 subtitle: lorem-ipsum
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
