@@ -2,7 +2,7 @@ title: Stackbit Fresh Theme
 baseURL: /
 params:
   layout_style: overflow
-  palette: blue
+  palette: green
   header:
     title: Vinson Ciawandy
     tagline: Data Science | Analytics | Mathematics
