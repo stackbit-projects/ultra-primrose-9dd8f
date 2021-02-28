@@ -40,4 +40,6 @@ For float16, the average is nan. Why? After some exploration, i notice that pand
 ```python
 import numpy as np
 np.array(100000.0,dtype=np.float16)
+> array(inf, dtype=float16) # Output
 ```
+
