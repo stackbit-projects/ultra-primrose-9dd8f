@@ -50,7 +50,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
     *   Created dashboard to generate report using Streamlit    
 
-*   Created scoring prediction services that connected to Kafka services
+    *   Created scoring prediction services that connected to Kafka services
 
 *   Developed Anomaly Detection worflow
 
