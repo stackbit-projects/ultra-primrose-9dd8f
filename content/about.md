@@ -47,7 +47,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 ##
 
 ##
-> I just keep moving forward
+> I'll just keep moving forward
 <cite>Eren Yēgā</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
