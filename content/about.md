@@ -63,7 +63,7 @@ language.
 ---
 Knowledge : Data Science, Mathematics, Statistics, Computer Vision, Data Structures
 Programming Language : Python, R, SQL, C++
-Tools : Tableau, , Git  
+Tools : Tableau, Apache Superset, Git  
 
 ## Competition Experience
 ---
