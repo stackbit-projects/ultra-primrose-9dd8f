@@ -49,7 +49,7 @@ Internship, May 2018 - July 2019
 - **B.Sc in Mathematics, Institut Teknologi Bandung**
 August 2016 - October 2020
 Undergrad Thesis : Human Motion Trajectory Prediction with Deep Learning
-
+I took course that related 
 
 ## Workshop given
 ---
