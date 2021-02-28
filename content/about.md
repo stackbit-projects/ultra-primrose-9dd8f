@@ -111,12 +111,12 @@ APECX UGM, November 2019**
 In a team of 3, we wrote "Inferring Production Rates of a Rod Pumped Well Using Keras
 Neural Network and Random Forest"
 -- 1st position at Data Analysis Competition
-IFest Unpad, October 2019
+IFest Unpad, October 2019  
 In a team of 4, we created an analysis and dashboard about Indonesia's education quality.
 We conclude that National Exam for high school students is ineffective to measure student's
 competence and we debunk some common belief about education.
--- *2nd position at Data Mining Competition
-Joints UGM, May 2019
+-- *2nd position at Data Mining Competition**
+Joints UGM, May 2019  
 Given data from Mamikos, our objective is to predict the right price to give rent a boarding
 house(kost). Things I do includes : Imputate missing value through Data Exploration(by using
 Alluvial plot, correlation and geographical fact), create and optimize Gradient Boosting
