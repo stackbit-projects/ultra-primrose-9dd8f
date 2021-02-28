@@ -122,7 +122,7 @@ house(kost). Things I do includes : Imputate missing value through Data Explorat
 Alluvial plot, correlation and geographical fact), create and optimize Gradient Boosting
 Machine to predict the right price
 - **Finalist In-Country at EY NextWave Data Science Challenge**  
-Ernst & Young, May 2019
+Ernst & Young, May 2019  
 Given trajectory record of mobile device in Atlanta City , we asked to predict whether the
 device will leave the city or not. We convert the historical data into supervised learning
 problem, done tons of feature engineering and feed it into Gradient Boosting Machine
