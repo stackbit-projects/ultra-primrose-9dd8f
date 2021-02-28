@@ -23,4 +23,4 @@ I have limited RAM for processing huge dataset, what does this post means to me 
 The goal of this post is to answer these question, focusing on speed and precision, without much tough about how it implemented. I’m assuming you to have some familiarity with Python, Numpy and Pandas.  
 
 > If number is a stick, and variable is a hole. Using a big hole to store a small stick is wasteful. What worse is putting a huge stick to a small hole.
-
+<cite>Eren Jäger</cite>
