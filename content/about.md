@@ -61,8 +61,8 @@ language.
 
 ## Skill
 ---
-Knowledge : Data Science, Mathematics, Statistics, Computer Vision  
-Programming Language : Python, R, SQL  
+Knowledge : Data Science, Mathematics, Statistics, Computer Vision, Data Structures
+Programming Language : Python, R, SQL, C++
 Tools : Tableau, Git  
 
 ## Competition Experience
