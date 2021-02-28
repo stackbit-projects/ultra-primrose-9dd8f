@@ -53,7 +53,7 @@ Deep Learning
     - Web mockup for showing recommendation system result using
 Django and successfully deploy it to local server and Heroku.
     - Heatmaps generation for people detection analysis
-- **Lab Assistant of Statistics, ITB**
+- **Lab Assistant of Statistics, ITB**  
 Part time, September 2018 - December 2019  
 Help students to apply statistical methods such as :
     - Hypothesis Testing
