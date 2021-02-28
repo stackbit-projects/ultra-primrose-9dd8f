@@ -59,3 +59,9 @@ length = 1000000
 df = pd.DataFrame({"grouper":np.random.choice(categories,length),"value":np.random.randint(0,100,length)})
 df
 ```
+{{<rawhtml>}}
+
+<div align="center">
+<img src="https://ik.imagekit.io/pwhcix71iqy/conclusion_2021-02-20_UFaJlnFZz.png" width="100%"> </img>
+</div>
+{{</rawhtml >}}
