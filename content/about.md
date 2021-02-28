@@ -5,7 +5,9 @@ img_path: images/IMG_20191230_103442.jpg
 img_alt: Handsome man during vacation in Borobudur
 seo:
   title: 'Vinson''s blog | Data Science, Analytics, Mathematics'
-  description: This is the about me page
+  description: >-
+    Read topics about Data Science, AI, Machine Learning that rarely covered by
+    other platforms.
   extra:
     - name: 'og:type'
       value: website
