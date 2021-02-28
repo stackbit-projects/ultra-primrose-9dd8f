@@ -96,6 +96,7 @@ Float16	| 144 | 6.8 |
 Int64	| 143 | 4.03 |
 Int32	| 172 | 6.47 |
 Int16	| 154 | 2.23 |
+
 <cite>Float64 wins the pandas aggregation competition. All experiment run 7 times with 10 loop of repetition.
 </cite>
 
