@@ -343,5 +343,7 @@ From these 6 experiments, I conclude that :
 
 1.  Sklearn is slower than NumPy and Numba. Does that mean we need to ditch Sklearn? Obviously not, since the Sklearn function offers much functionality that I not implement. But if you sure that you don’t need all of those features, then just use Numpy/Numba implementation.
 2.  Numba is faster than Numpy for heavy but simple calculations such as addition, subtraction, multiplication, division, etc. I also notice that when using less NumPy code inside the Numba function, the memory it took is drastically lower.
-3.  Numpy and Numba have a similar speed for a more complex algorithm. In this kind of situation, I will pick Numpy because it needs less code to write.
-    This is my first time writing a blog, feel free to leave a comment if you notice some kind of mistake or have some suggestion for me.
+3.  Numpy and Numba have a similar speed for a more complex algorithm. In this kind of situation, I will pick Numpy because it needs less code to write.  
+
+
+If you have any suggestion or question, feel free to reach me out on Linkenid!
