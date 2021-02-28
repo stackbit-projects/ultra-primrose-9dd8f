@@ -92,10 +92,12 @@ Taking a part in Genta Honggoi Orchestra as the guitar player was the best decis
 KM ITB, November 2019  
 Became one of four speakers at KM ITB's LOKAKARYA INOVASI II discussing cashless society in
 Indonesia.
+  
 - **Instructor at “Turn Data into Insight”’ workshop.**  
 LnPoint, November 2019  
 Created a 3 days workshop to taught the basics of Data Science. The material that I covered
 including : Data wrangling, Data visualization and Machine Learning.
+  
 - **Instructor at “Gentle Introduction to Machine Learning : Supervised Learning”’ workshop.**  
 LnPoint, March 2019  
 Created a 1 days workshop to taught the basics of supervised learning using R programming
