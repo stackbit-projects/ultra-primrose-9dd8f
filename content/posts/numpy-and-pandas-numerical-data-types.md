@@ -151,3 +151,9 @@ To demonstrate the data type effect on pandas, I will use dataset from kaggle co
 train_df = pd.read_csv('../input/riiid-test-answer-prediction/train.csv', nrows=10**8)
 train_df
 ```
+
+{{<rawhtml>}}
+<div align="center">
+<img src="https://ik.imagekit.io/pwhcix71iqy/dummy_df_V-uAaLDPLi6.png" width="50%"> </img>
+</div>
+{{</rawhtml >}}
