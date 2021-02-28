@@ -55,11 +55,11 @@ Django and successfully deploy it to local server and Heroku.
     - Heatmaps generation for people detection analysis
 - **Lab Assistant of Statistics, ITB**
 Help students to apply statistical methods such as :
- Hypothesis Testing
- Linear Regression
- Time Series Analysis
- Spatial Analysis
- Statistical Process Control
+- Hypothesis Testing
+- Linear Regression
+- Time Series Analysis
+- Spatial Analysis
+- Statistical Process Control
 in R programming language for Data Analysis and Basic Statistics courses.
 - **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019
