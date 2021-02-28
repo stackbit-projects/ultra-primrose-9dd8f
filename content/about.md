@@ -59,9 +59,10 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
     *   Recommendation system using KNN, Matrix Factorization and
         Deep Learning
-        
+
     *   Web mockup for showing recommendation system result using
         Django and successfully deploy it to local server and Heroku.
+        
     *   Heatmaps generation for people detection analysis
 
 *   **Lab Assistant of Statistics, ITB**\
