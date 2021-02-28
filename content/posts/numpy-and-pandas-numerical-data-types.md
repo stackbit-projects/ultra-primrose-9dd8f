@@ -89,7 +89,7 @@ df["value"] = df["value"].astype('int16')
 ```
 Data Type | Average Time (ms) | Standard Deviation (ms)|
 --------|-----|------|----------------------------|
-**Float64**	| 118 | 2.88 |
+**Float64	| 118 | 2.88 |
 Float32	| 143 | 2.7 |
 Float16	| 144 | 6.8 |
 Int64	| 143 | 4.03 |
