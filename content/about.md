@@ -56,6 +56,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 *   **Data Analyst, Purple Analytics**\
     Internship, June 2019 - August 2020\
     With a team of 2, we created :
+    
     *   Recommendation system using KNN, Matrix Factorization and
         Deep Learning
     *   Web mockup for showing recommendation system result using
