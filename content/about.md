@@ -72,7 +72,7 @@ Tableau, **Apache Superset**, Git
 
 ## Hobby
 ---
-Writing this blog(New hobby), Hash run(But I don't drink), Playing guitar, Playing JRPG games ()
+Writing this blog(New hobby), Hash run(But I don't drink), Playing guitar, Playing JRPG games (Huge fan of trails series)
 
 > I'll just keep moving forward
 <cite>Eren Yēgā</cite>
