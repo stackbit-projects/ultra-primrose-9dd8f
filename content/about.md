@@ -65,8 +65,11 @@ Programming Language : Python, R, SQL
 Tools : Tableau, Git  
 
 ## Competition Experience
+---
 
 ## Hobby
+---
+
 > I'll just keep moving forward
 <cite>Eren Yēgā</cite>
 
