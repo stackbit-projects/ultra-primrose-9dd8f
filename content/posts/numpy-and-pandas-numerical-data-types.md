@@ -59,7 +59,6 @@ categories = ["A","B","C","D","E"]
 length = 1000000
 df = pd.DataFrame({"grouper":np.random.choice(categories,length),"value":np.random.randint(0,100,length)})
 df
-
 ```
 
 {{<rawhtml>}}
