@@ -106,7 +106,26 @@ Tableau, **Apache Superset**, Git
 
 ## Competition Experience
 ---
-
+2nd posititon at PETSROCHINA Paper and Exhibition Competition
+APECX UGM, November 2019
+In a team of 3, we wrote "Inferring Production Rates of a Rod Pumped Well Using Keras
+Neural Network and Random Forest"
+1st position at Data Analysis Competition
+IFest Unpad, October 2019
+In a team of 4, we created an analysis and dashboard about Indonesia's education quality.
+We conclude that National Exam for high school students is ineffective to measure student's
+competence and we debunk some common belief about education.
+2nd position at Data Mining Competition
+Joints UGM, May 2019
+Given data from Mamikos, our objective is to predict the right price to give rent a boarding
+house(kost). Things I do includes : Imputate missing value through Data Exploration(by using
+Alluvial plot, correlation and geographical fact), create and optimize Gradient Boosting
+Machine to predict the right price
+Finalist In-Country at EY NextWave Data Science Challenge
+Ernst & Young, May 2019
+Given trajectory record of mobile device in Atlanta City , we asked to predict whether the
+device will leave the city or not. We convert the historical data into supervised learning
+problem, derived a lot new features and feed it into Gradient Boosting Machine
 
 ## Hobby
 ---
