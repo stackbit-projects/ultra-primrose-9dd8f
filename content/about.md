@@ -54,6 +54,7 @@ Deep Learning
 Django and successfully deploy it to local server and Heroku.
     - Heatmaps generation for people detection analysis
 - **Lab Assistant of Statistics, ITB**
+
 Help students to apply statistical methods such as :
     - Hypothesis Testing
     - Linear Regression
