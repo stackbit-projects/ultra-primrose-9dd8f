@@ -50,9 +50,9 @@ Internship, June 2019 - August 2020
 With a team of 2, we created :
     - Recommendation system using KNN, Matrix Factorization and
 Deep Learning
-- Web mockup for showing recommendation system result using
+    - Web mockup for showing recommendation system result using
 Django and successfully deploy it to local server and Heroku.
-- Heatmaps generation for people detection analysis
+    - Heatmaps generation for people detection analysis
 - **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019
 
