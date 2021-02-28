@@ -131,3 +131,5 @@ mat = mat.astype(np.int16)
 |   Int32   |        1370       |           144           |
 |   Int16   |        1640       |           210           |
 <cite>Float32 turn out to be fastest.</cite>
+
+Float is faster than integer for this test, but Float16 is really slow compared to the rest. Why? It turns out that float 16 are not supported natively by most processors (What they actually did are emulating float16-like behavior).
