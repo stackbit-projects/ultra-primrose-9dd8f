@@ -15,9 +15,12 @@ layout: post
 thumb_img_path: images/pexels-polina-tankilevitch-4109048 (1).jpg
 content_img_path: images/pexels-polina-tankilevitch-4109048 (1).jpg
 ---
-## Lorem ipsum
+Original photo by [**Polina Tankilevitch**](https://www.pexels.com/@polina-tankilevitch?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/food-woman-winter-fun-4109048/?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+What could go wrong if I use float32 instead of float64 ?  
+I need more speed for my calculation without changing my code alot, is changing data types coud help me?  
+I have limited RAM for processing huge dataset, what does this post means to me ?  
+The goal of this post is to answer these question, focusing on speed and precision, without much tough about how it implemented. I’m assuming you to have some familiarity with Python, Numpy and Pandas.  
 
-- Lorem ipsum
-- dolor sit amet
+> If number is a stick, and variable is a hole. Using a big hole to store a small stick is wasteful. What worse is putting a huge stick to a small hole.
+
