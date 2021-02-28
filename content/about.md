@@ -53,6 +53,7 @@ Deep Learning
     - Web mockup for showing recommendation system result using
 Django and successfully deploy it to local server and Heroku.
     - Heatmaps generation for people detection analysis
+- LABORATORY ASSISTANT OF STATISTICS, MATHEMATICS LABORATORY ITB, BANDUNG**
 - **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019
 
