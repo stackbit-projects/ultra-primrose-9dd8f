@@ -125,7 +125,7 @@ Machine to predict the right price
 Ernst & Young, May 2019
 Given trajectory record of mobile device in Atlanta City , we asked to predict whether the
 device will leave the city or not. We convert the historical data into supervised learning
-problem, derived a lot new features and feed it into Gradient Boosting Machine
+problem, done tons of feature engineering and feed it into Gradient Boosting Machine
 
 ## Hobby
 ---
