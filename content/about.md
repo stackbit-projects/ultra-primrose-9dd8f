@@ -34,7 +34,7 @@ layout: page
 Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science journey in 2017, when one of the biggest E-commerce company came to the college to gave workshop about Data Analytics. Now, he works as a Data Scientist in the same company who introduced him to Data Science.
 
 ## Work Experience
-
+---
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
