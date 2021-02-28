@@ -66,9 +66,13 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
     Part time, September 2018 - December 2019\
     Help students to apply statistical methods such as :
     *   Hypothesis Testing
+
     *   Linear Regression
+    
     *   Time Series Analysis
+    
     *   Spatial Analysis
+    
     *   Statistical Process Control
         in R programming language for Data Analysis and Basic Statistics courses.
 
