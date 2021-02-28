@@ -136,3 +136,11 @@ Float is faster than integer for this test, but [Float16 is really slow](https:/
 
 ## Memory
 In Python, float data type use more memory than int which is make sense.
+```python
+from sys import getsizeof
+a_float = [float(x) for x in list(range(1,100000000))]
+getsizeof(a_float)/1024/1024
+>> 819.8971405029297
+```
+
+```python
