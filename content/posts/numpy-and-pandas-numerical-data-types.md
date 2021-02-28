@@ -67,7 +67,7 @@ df
 <div align="center">
 <img src="https://ik.imagekit.io/pwhcix71iqy/dummy_df_V-uAaLDPLi6.png" width="30%"> </img>
 </div>
-{{</rawhtml >}}
+{{</rawhtml >}}  
 
 ```python
 df["value"] = df["value"].astype('float64')
