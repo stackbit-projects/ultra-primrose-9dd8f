@@ -62,8 +62,9 @@ language.
 ## Skill
 ---
 Data Science, Mathematics, Statistics, Computer Vision, Data Structures
-Python, R, SQL, C++
-Tools : Tableau, Apache Superset, Git  
+Python, R, SQL, C++  
+Pytorch, Tensorflow, 
+Tableau, Apache Superset, Git  
 
 ## Competition Experience
 ---
