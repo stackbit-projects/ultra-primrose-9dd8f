@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Who I am ? What I am doing ?
-img_path: images/about.jpg
+img_path: images/IMG_20191230_103442.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
