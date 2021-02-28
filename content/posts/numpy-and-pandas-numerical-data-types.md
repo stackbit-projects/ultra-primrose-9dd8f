@@ -146,5 +146,3 @@ a_int = list(range(1,100000000))
 getsizeof(a_int)/1024/1024
 >> 762.9394989013672
 ```
-
-```python
