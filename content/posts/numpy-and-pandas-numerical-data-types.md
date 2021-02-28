@@ -29,7 +29,7 @@ The goal of this post is to answer these question, focusing on speed and precisi
 
 We need to make sure our number calculated correctly. Floating number (in almost every programming language that i know) have some unavoidable inaccuracies. This is the most famous example of such case.
 
-![](https://ik.imagekit.io/pwhcix71iqy/0.1\_0.2\__0.3\_mZQjarmCOQLb.png)\<cite> Visit this website to understand this issue <https://0.30000000000000004.com/> <\cite>
+![](https://ik.imagekit.io/pwhcix71iqy/0.1\_0.2\__0.3\_mZQjarmCOQLb.png)<cite> Visit this website to understand this issue <https://0.30000000000000004.com/> <\cite>
 
 Most of the time, this kind of innacuracies are tolarable. But, there are some cases where this kind of behaviour is unacceptable. Here’s the example of such case :
 
