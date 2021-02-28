@@ -44,7 +44,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 ---
 - Institut Teknologi Bandung
 
-##
+## 
 
 ## Hobby
 > I'll just keep moving forward
