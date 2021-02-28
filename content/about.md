@@ -47,6 +47,7 @@ Internship, May 2018 - July 2019
 ## Education
 ---
 - **B.Sc in Mathematics, Institut Teknologi Bandung**
+August 2016 - 
 
 ## Workshop given
 ---
