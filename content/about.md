@@ -53,8 +53,8 @@ Indonesia.
 LnPoint, November 2019  
 Created a 3 days workshop to taught the basics of Data Science. The material that I covered
 including : Data wrangling, Data visualization and Machine Learning.
-- Instructor at “Gentle Introduction to Machine Learning : Supervised Learning”’ workshop.
-LnPoint, March 2019
+- Instructor at “Gentle Introduction to Machine Learning : Supervised Learning”’ workshop.  
+LnPoint, March 2019  
 Created a 1 days workshop to taught the basics of supervised learning using R programming
 language.
 
