@@ -50,3 +50,5 @@ I will conduct several experiment to see the effect of changing datatype. Could 
 
 1. Pandas aggregation
 I will create a simple dataframe with one categorical variable and one random integer. I will do several aggregation with different type of data type and see how fast/slow it’s gonna be.
+
+2. 
