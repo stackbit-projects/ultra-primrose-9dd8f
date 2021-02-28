@@ -62,7 +62,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
     *   Web mockup for showing recommendation system result using
         Django and successfully deploy it to local server and Heroku.
-        
+
     *   Heatmaps generation for people detection analysis
 
 *   **Lab Assistant of Statistics, ITB**\
@@ -76,7 +76,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
     
     *   Spatial Analysis
     
-    *   Statistical Process Control
+    *   Statistical Process Control  
         in R programming language for Data Analysis and Basic Statistics courses.
 
 *   **Data Scientist, PT Telkom Indonesia**\
