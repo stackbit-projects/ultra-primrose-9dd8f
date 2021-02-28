@@ -182,3 +182,35 @@ memory usage: 7.5+ GB
 ```
 
 The dataset itself use more than 7.5 GB of memory. All the integer stored as int64 and the boolean column store as string/object. Let we fix this by specifying the correct/efficient datatype.  
+
+train_df = pd.read_csv('../input/riiid-test-answer-prediction/train.csv',
+                       nrows=10**8, 
+                       dtype={'row_id': 'int64', 
+                              'timestamp': 'int64', 
+                              'user_id': 'int32', 
+                              'content_id': 'int16', 
+                              'content_type_id': 'int8',
+                              'task_container_id': 'int16', 
+                              'user_answer': 'int8', 
+                              'answered_correctly': 'int8', 
+                              'prior_question_elapsed_time': 'float32', 
+                             'prior_question_had_explanation': 'boolean',
+                             })
+train_df.info()
+>> <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 100000000 entries, 0 to 99999999
+Data columns (total 10 columns):
+ #   Column                          Dtype  
+---  ------                          -----  
+ 0   row_id                          int64  
+ 1   timestamp                       int64  
+ 2   user_id                         int32  
+ 3   content_id                      int16  
+ 4   content_type_id                 int8   
+ 5   task_container_id               int16  
+ 6   user_answer                     int8   
+ 7   answered_correctly              int8   
+ 8   prior_question_elapsed_time     float32
+ 9   prior_question_had_explanation  boolean
+dtypes: boolean(1), float32(1), int16(2), int32(1), int64(2), int8(3)
+memory usage: 3.1 GB
