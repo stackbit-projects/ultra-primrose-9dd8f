@@ -17,7 +17,6 @@ sections:
         style: button
 seo:
   title: 'Vinson''s personal Blog | Data Science, Anaytics, Mathematics'
-  description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
       value: website
