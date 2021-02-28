@@ -182,7 +182,7 @@ memory usage: 7.5+ GB
 ```
 
 The dataset itself use more than 7.5 GB of memory. All the integer stored as int64 and the boolean column store as string/object. Let we fix this by specifying the correct/efficient datatype.  
-
+```python
 train_df = pd.read_csv('../input/riiid-test-answer-prediction/train.csv',
                        nrows=10**8, 
                        dtype={'row_id': 'int64', 
