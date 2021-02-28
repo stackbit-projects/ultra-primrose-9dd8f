@@ -46,4 +46,4 @@ np.array(100000.0,dtype=np.float16)
 I’m still not sure why calculating mean resulted in nan instead of Inf, but my point still not change that using the wrong data type could led you to wrong result.
 
 ## Speed
-
+I will conduct several experiment to see the effect of changing datatype. Could it increase the speed? In theory, more precise data type lead to slower calculation time.
