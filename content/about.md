@@ -63,8 +63,8 @@ language.
 ---
 **Data Science**, Mathematics, Statistics, Computer Vision, Data Structures
 **Python**, R, SQL, C++  
-Pytorch, Tensorflow, **Plotly-Dash
-Tableau, Apache Superset, Git  
+**Pytorch**, Tensorflow, **Plotly-Dash**
+Tableau, **Apache Superset, Git  
 
 ## Competition Experience
 ---
