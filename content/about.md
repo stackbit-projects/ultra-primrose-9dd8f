@@ -60,7 +60,7 @@ language.
 
 ## Skill
 Programming Language : Python, R, SQL
-Tools : Tableau, PowerB
+Tools : Tableau, Git
 
 ## Competition Experience
 
