@@ -33,8 +33,6 @@ layout: page
 ---
 Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science journey in 2017, when one of the biggest E-commerce company came to the college to gave workshop about Data Analytics. Now, he works as a Data Scientist in the same company who introduced him to Data Science.
 
-
-
 ## Work Experience
 ---
 - Data Scientist, Tokopedia
