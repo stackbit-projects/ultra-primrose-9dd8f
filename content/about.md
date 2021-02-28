@@ -46,9 +46,9 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
     *   Created Deep Learning model using Tensorflow with distributed GPU training strategy and automatic model evaluation with Champion/Challenger approach for credit scoring.
 
-*   Created dashboard to monitor model performance using Dash
+    *   Created dashboard to monitor model performance using Dash
 
-*   Created dashboard to generate report using Streamlit
+    *   Created dashboard to generate report using Streamlit    
 
 *   Created scoring prediction services that connected to Kafka services
 
