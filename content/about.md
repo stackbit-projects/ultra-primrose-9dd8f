@@ -52,6 +52,8 @@ Undergrad Thesis : Human Motion Trajectory Prediction with Deep Learning
 <br>
 Most of the classes I took related to Statistics. I also took some class from Computer Science(Data Structure and Databases).
 
+-- 
+
 
 ## Workshop given
 ---
