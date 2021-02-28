@@ -1,6 +1,6 @@
 ---
 title: Numpy and Pandas numerical data types
-subtitle: lorem-ipsum
+subtitle: 'Stability, Speed and Memory Usage.'
 date: '2021-02-28'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
