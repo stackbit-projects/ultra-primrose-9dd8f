@@ -8,7 +8,7 @@ params:
     tagline: Data Science | Analytics | Mathematics
     profile_img: images/image.png
     profile_img_alt: Author avatar
-    background: dark
+    background: light
     has_nav: true
     nav_links:
       - label: Home
