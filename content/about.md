@@ -77,7 +77,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
     *   Spatial Analysis
     
     *   Statistical Process Control  
-        in R programming language for Data Analysis and Basic Statistics courses.
+    in R programming language for Data Analysis and Basic Statistics courses.
 
 *   **Data Scientist, PT Telkom Indonesia**\
     Internship, May 2018 - July 2019\
