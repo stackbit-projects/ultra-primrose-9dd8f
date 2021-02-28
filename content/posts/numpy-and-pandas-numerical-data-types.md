@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/pexels-polina-tankilevitch-4109048 (1).jpg
+content_img_path: images/pexels-polina-tankilevitch-4109048 (1).jpg
 ---
 ## Lorem ipsum
 
