@@ -148,3 +148,7 @@ getsizeof(a_int)/1024/1024
 ```
 
 To demonstrate the data type effect on pandas, I will use dataset from kaggle competition.
+```python
+train_df = pd.read_csv('../input/riiid-test-answer-prediction/train.csv', nrows=10**8)
+train_df
+```
