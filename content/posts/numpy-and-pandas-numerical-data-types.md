@@ -85,7 +85,7 @@ df["value"] = df["value"].astype('int32')
 df["value"] = df["value"].astype('int16')
 %timeit df.groupby("grouper").agg({"value":["mean","sum","median","std","min","max"]})
 ```
-Data Type	Average Time (ms)	Standard Deviation (ms)
+Data Type |Average Time (ms)	Standard Deviation (ms)
 Float64	| 118 | 2.88
 Float32	| 143 | 2.7
 Float16	| 144 | 6.8
