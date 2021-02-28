@@ -217,5 +217,5 @@ memory usage: 3.1 GB
 ```
 Now the dataset become 3.1 GB
 
-Conclusion
+## Conclusion
 When working on small data, the data type is irrelevant since Pandas and Numpy default settings are the best. But when dealing with a huge dataset, we need to give more consideration to which data type we should use because it could save us from mis-precision, long execution time, and huge memory usage.
