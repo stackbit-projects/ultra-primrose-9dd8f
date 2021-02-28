@@ -72,7 +72,7 @@ Tableau, **Apache Superset**, Git
 
 ## Hobby
 ---
-
+Writing this blog(New hobby), 
 
 > I'll just keep moving forward
 <cite>Eren Yēgā</cite>
