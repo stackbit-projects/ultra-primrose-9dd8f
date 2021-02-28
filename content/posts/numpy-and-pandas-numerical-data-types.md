@@ -88,39 +88,39 @@ df\["value"] = df\["value"].astype('int16')
 %timeit df.groupby("grouper").agg({"value":\["mean","sum","median","std","min","max"]})
 ```
 
-    Data Type | Average Time (ms) | Standard Deviation (ms)|
-    --------|-----|------|----------------------------|
-    Float64	| 118 | 2.88 |
-    Float32	| 143 | 2.7 |
-    Float16	| 144 | 6.8 |
-    Int64	| 143 | 4.03 |
-    Int32	| 172 | 6.47 |
-    Int16	| 154 | 2.23 |
-    <cite>Float64 wins the pandas aggregation competition. All experiment run 7 times with 10 loop of repetition.
-    </cite>
+Data Type | Average Time (ms) | Standard Deviation (ms)|
+--------|-----|------|----------------------------|
+Float64	| 118 | 2.88 |
+Float32	| 143 | 2.7 |
+Float16	| 144 | 6.8 |
+Int64	| 143 | 4.03 |
+Int32	| 172 | 6.47 |
+Int16	| 154 | 2.23 |
+<cite>Float64 wins the pandas aggregation competition. All experiment run 7 times with 10 loop of repetition.
+</cite>
 
-    2. Numpy Matrix multiplication
-    ```python
-    import numpy as np
-    mat = np.random.randint(0,80,(1000,1000))
-     
-    mat = mat.astype(np.float64)
-    %timeit mat.dot(mat)
-     
-    mat = mat.astype(np.float32)
-    %timeit mat.dot(mat)
-     
-    mat = mat.astype(np.float16)
-    %timeit mat.dot(mat)
-     
-    mat = mat.astype(np.int64)
-    %timeit mat.dot(mat)
-     
-    mat = mat.astype(np.int32)
-    %timeit mat.dot(mat)
-     
-    mat = mat.astype(np.int16)
-    %timeit mat.dot(mat)
+2. Numpy Matrix multiplication
+```python
+import numpy as np
+mat = np.random.randint(0,80,(1000,1000))
+    
+mat = mat.astype(np.float64)
+%timeit mat.dot(mat)
+    
+mat = mat.astype(np.float32)
+%timeit mat.dot(mat)
+    
+mat = mat.astype(np.float16)
+%timeit mat.dot(mat)
+    
+mat = mat.astype(np.int64)
+%timeit mat.dot(mat)
+    
+mat = mat.astype(np.int32)
+%timeit mat.dot(mat)
+    
+mat = mat.astype(np.int16)
+%timeit mat.dot(mat)
 
 | Data Type | Average Time (ms) | Standard Deviation (ms) |
 |:---------:|:-----------------:|:-----------------------:|
