@@ -50,6 +50,7 @@ Internship, May 2018 - July 2019
 August 2016 - October 2020  
 Undergrad Thesis : Human Motion Trajectory Prediction with Deep Learning 
 Most of the classes I took related to Statistics. I also took some class from Computer Science(Data Structure and Databases).
+Active parti
 
 - **Santa Maria Senior High School**
 
