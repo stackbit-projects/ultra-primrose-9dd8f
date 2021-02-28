@@ -64,7 +64,7 @@ Help students to apply statistical methods such as :
 in R programming language for Data Analysis and Basic Statistics courses.
 - **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019  
-Worked on a joint project between PT Telekomunikasi Indonesia with PT Jasa Marga to improve vehicle counting system on rest area.
+Worked on a joint project between PT Telekomunikasi Indonesia with PT Jasa Marga to improve vehicle counting system on rest area.  
     - Created daily report using Tableau for daily monitoring
     - Identified the problem with the current system
     - Created machine learning model and demo
