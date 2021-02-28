@@ -54,7 +54,7 @@ Active participation in Data Science competitions and student organization.
 
 - **Santa Maria Senior High School**  
 2013 - 2016  
-My memory of highschool 
+My memory of highschool filled onl
 
 
 ## Workshop given
