@@ -69,8 +69,9 @@ df
 </div>
 {{</rawhtml >}}
 ```python
-df\["value"] = df\["value"].astype('float64')
-%timeit df.groupby("grouper").agg({"value":\["mean","sum","median","std","min","max"]})
+df["value"] = df["value"].astype('float64')
+%timeit df.groupby("grouper").agg({"value":["mean","sum","median","std","min","max"]})
+
 
 df\["value"] = df\["value"].astype('float32')
 %timeit df.groupby("grouper").agg({"value":\["mean","sum","median","std","min","max"]})
@@ -86,7 +87,8 @@ df\["value"] = df\["value"].astype('int32')
 
 df\["value"] = df\["value"].astype('int16')
 %timeit df.groupby("grouper").agg({"value":\["mean","sum","median","std","min","max"]})
-```
+
+````
 
 Data Type | Average Time (ms) | Standard Deviation (ms)|
 --------|-----|------|----------------------------|
@@ -121,7 +123,7 @@ mat = mat.astype(np.int32)
     
 mat = mat.astype(np.int16)
 %timeit mat.dot(mat)
-```
+````
 
 | Data Type | Average Time (ms) | Standard Deviation (ms) |
 |:---------:|:-----------------:|:-----------------------:|
