@@ -62,7 +62,7 @@ language.
 ## Skill
 ---
 Data Science, Mathematics, Statistics, Computer Vision, Data Structures
-Programming Language : Python, R, SQL, C++
+Python, R, SQL, C++
 Tools : Tableau, Apache Superset, Git  
 
 ## Competition Experience
