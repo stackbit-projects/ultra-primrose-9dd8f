@@ -124,8 +124,8 @@ mat = mat.astype(np.int16)
 
 Data Type	| Average Time (ms)	Standard Deviation (ms)
 Float64	    | 50.1	6.28
-Float32     |	23	2.41
-Float16	5620	611
-Int64	1560	165
-Int32	1370	144
+Float32     | 23	2.41
+Float16	    | 5620	611
+Int64	    | 1560	165
+Int32	    | 1370	144
 Int16	1640	210
