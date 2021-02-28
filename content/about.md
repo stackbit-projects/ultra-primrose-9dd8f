@@ -59,7 +59,7 @@ LnPoint, March 2019
 Created a 1 days workshop to taught the basics of supervised learning using R programming
 language.
 
-## Skill
+## Skill and Knowledge
 ---
 **Data Science**, Mathematics, Statistics, Computer Vision, Data Structures
 Python, R, SQL, C++  
