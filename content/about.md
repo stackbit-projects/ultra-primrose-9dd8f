@@ -43,7 +43,7 @@ Take part to deliver digital transformation to Mandala Multifinance :
     - Created Deep Learning model using Tensorflow with distributed GPU training strategy and automatic model evaluation with Champion/Challenger approach for credit scoring.
     - Created dashboard to monitor model performance using Dash
     - Created dashboard to generate report using Streamlit
-    - Created scoring prediction services that connected to Kafka
+    - Created scoring prediction services that connected to Kafka services
  Developed Anomaly Detection worflow
 - **Data Analyst, Purple Analytics**  
 Internship, May 2019 - July 2020
