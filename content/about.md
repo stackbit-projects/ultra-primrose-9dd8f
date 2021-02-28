@@ -51,7 +51,7 @@ August 2016 - October 2020
 Undergrad Thesis : Human Motion Trajectory Prediction with Deep Learning 
 Most of the classes I took related to Statistics. I also took some class from Computer Science(Data Structure and Databases).
 
--- 
+-- **Santa Maria Senior High**
 
 
 ## Workshop given
