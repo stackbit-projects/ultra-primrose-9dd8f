@@ -127,6 +127,9 @@ Given trajectory record of mobile device in Atlanta City , we asked to predict w
 device will leave the city or not. We convert the historical data into supervised learning
 problem, done tons of feature engineering and feed it into Gradient Boosting Machine
 
+> I'll just keep moving forward
+<cite>Eren Jäger</cite>
+
 ## Hobby
 ---
 - Writing this blog(New hobby)
