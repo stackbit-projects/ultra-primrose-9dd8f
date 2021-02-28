@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Numpy '
 subtitle: lorem-ipsum
 date: '2021-02-28'
 thumb_img_alt: lorem-ipsum
