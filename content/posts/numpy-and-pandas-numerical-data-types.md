@@ -79,7 +79,7 @@ df\["value"] = df\["value"].astype('float32')
 df\["value"] = df["value"].astype('float16')
 %timeit df.groupby("grouper").agg({"value":\["mean","sum","median","std","min","max"]})
 
-df\["value"] = df\["value"].astype('int64')
+df["value"] = df["value"].astype('int64')
 %timeit df.groupby("grouper").agg({"value":\["mean","sum","median","std","min","max"]})
 
 df["value"] = df["value"].astype('int32')
