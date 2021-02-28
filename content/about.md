@@ -54,7 +54,7 @@ Active participation in Data Science competitions and student organization.
 
 - **Santa Maria Senior High School**  
 2013 - 2016  
-Take a part in Genta Honggoi Orchestra as the guitar player is the best decision I took in my highschool :)
+Taking a part in Genta Honggoi Orchestra as the guitar player is the best decision I took in my highschool :)
 
 
 ## Workshop given
