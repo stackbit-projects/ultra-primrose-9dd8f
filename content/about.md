@@ -75,7 +75,7 @@ Tableau, **Apache Superset**, Git
 Writing this blog(New hobby), Hash run(But I don't drink), Playing guitar, Playing JRPG games (Huge fan of all the trails series)
 
 > I'll just keep moving forward
-<cite>Eren Jaeger</cite>
+<cite>Eren Jäger</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
