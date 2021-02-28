@@ -37,11 +37,11 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 ---
 - **Data Scientist, Tokopedia**  
 Fulltime, February 2021 - Present
-- **Data Scientist, PT Mandala Multifinance**
+- **Data Scientist, PT Mandala Multifinance**  
 Contract, June 2020 - January 2021
-- **Data Analyst, Purple Analytics**
+- **Data Analyst, Purple Analytics**  
 Internship, May 2019 - July 2020
-- **Data Scientist, PT Telkom Indonesia**
+- **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019
 
 ## Education
