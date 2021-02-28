@@ -157,4 +157,4 @@ train_df
 <img src="https://ik.imagekit.io/pwhcix71iqy/riid_k3XRQ6OTR.png" width="100%"> </img>
 </div>
 {{</rawhtml >}}
-<cite><>
+<cite>https://www.kaggle.com/c/riiid-test-answer-prediction/overview</cite>
