@@ -25,5 +25,5 @@ The goal of this post is to answer these question, focusing on speed and precisi
 > If number is a stick, and variable is a hole. Using a big hole to store a small stick is wasteful. What worse is putting a huge stick to a small hole.
 <cite>Vinson Ciawandy</cite>
 
-## Numerical Stability
+## Numerical Stability  
 We need to make sure our number calculated correctly. Floating number (in almost every programming language that i know) have some unavoidable inaccuracies. This is the most famous example of such case.
