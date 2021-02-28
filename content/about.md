@@ -4,7 +4,7 @@ subtitle: Who I am ? What I am doing ?
 img_path: images/IMG_20191230_103442.jpg
 img_alt: Handsome man during vacation in Borobudur
 seo:
-  title: About Me
+  title: Vinson
   description: This is the about me page
   extra:
     - name: 'og:type'
