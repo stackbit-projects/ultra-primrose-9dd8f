@@ -52,9 +52,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
     *   Created scoring prediction services that connected to Kafka services
 
-*   Developed Anomaly Detection worflow
-
-
+    *   Developed Anomaly Detection worflow
 
 *   **Data Analyst, Purple Analytics**\
     Internship, June 2019 - August 2020\
