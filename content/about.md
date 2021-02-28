@@ -47,6 +47,13 @@ Take part to deliver digital transformation to Mandala Multifinance :
     - Developed Anomaly Detection worflow
 - **Data Analyst, Purple Analytics**  
 Internship, May 2019 - July 2020
+June 2019 – August 2019
+With a team of 2, we created :
+ Recommendation system using KNN, Matrix Factorization and
+Deep Learning
+ Web mockup for showing recommendation system result using
+Django and successfully deploy it to local server and Heroku.
+ Heatmaps generation for people detection analysis
 - **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019
 
