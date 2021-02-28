@@ -31,5 +31,8 @@ We need to make sure our number calculated correctly. Floating number (in almost
 
 ![](https://ik.imagekit.io/pwhcix71iqy/0.1\_0.2\__0.3\_mZQjarmCOQLb.png)\<cite> Visit this website to understand this issue <https://0.30000000000000004.com/> <\cite>
 
-Most of the time, this kind of innacuracies are tolarable. But, there are some cases where this kind of behaviour is unacceptable. Here’s the example of such case : 
+Most of the time, this kind of innacuracies are tolarable. But, there are some cases where this kind of behaviour is unacceptable. Here’s the example of such case :
+
+![](https://ik.imagekit.io/pwhcix71iqy/image\_2020-11-17\_174514\_mGIYHMqcB.png)Calculating average from a huge pandas series can yield very different result if you use the wrong datatype. That’s why it is important to always do sanity checking to your data and code.  
+For float16, the average is nan. Why? After some exploration, i notice that pandas series using np.mean for calculating average and [np.mean](https://github.com/numpy/numpy/blob/2582c681082e6c2c74d424e255afa8efefa4f899/numpy/core/\_methods.py) start with summing all the values and then dividing the sum by count of the values. Since float16 can store number only up to [65504,](https://stackoverflow.com/questions/3477283/what-is-the-maximum-float-in-python) storing number bigger than that will yield to Inf
 
