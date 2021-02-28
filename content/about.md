@@ -38,7 +38,9 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 - Data Scientist, Tokopedia
 - Data Scientist, PT Mandala Multifinance
 - Data Analyst, Purple Analytics
-- Data Scientist, 
+- Data Scientist, PT Telkom Indonesia
+
+## 
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
