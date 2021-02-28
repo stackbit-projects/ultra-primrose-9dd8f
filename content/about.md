@@ -48,7 +48,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 - Speaker at “Cashless Society, Sudah Siapkah Indonesia?" talks
 KM ITB, November 2019  
 Became one of four speakers at KM ITB's LOKAKARYA INOVASI II discussing cashless society in
-Indonesia.  
+Indonesia.
 - Instructor at “Turn Data into Insight”’ workshop.
 LnPoint, November 2019  
 Created a 3 days workshop to taught the basics of Data Science. The material that I covered
