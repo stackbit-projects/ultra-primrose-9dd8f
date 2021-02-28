@@ -54,6 +54,7 @@ Deep Learning
 Django and successfully deploy it to local server and Heroku.
     - Heatmaps generation for people detection analysis
 - **Lab Assistant of Statistics, ITB**
+
 - **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019
 
