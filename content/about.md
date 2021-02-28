@@ -38,7 +38,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 - **Data Scientist, Tokopedia**  
 Fulltime, February 2021 - Present
 - **Data Scientist, PT Mandala Multifinance**  
-Contract, June 2020 - January 2021
+Contract, June 2020 - January 2021  
 Take part to deliver digital transformation to Mandala Multifinance :
     - Created Deep Learning model using Tensorflow with distributed GPU training strategy and automatic model evaluation with Champion/Challenger approach for credit scoring.
     - Created dashboard to monitor model performance using Dash
