@@ -66,9 +66,9 @@ in R programming language for Data Analysis and Basic Statistics courses.
 Internship, May 2018 - July 2019  
 Worked on a project between PT Telekomunikasi Indonesia with PT Jasa
 Marga to improve vehicle counting system on rest area.
- Created daily report using Tableau for daily monitoring
- Identified the problem with the current system
- Created machine learning model and demo
+    - Created daily report using Tableau for daily monitoring
+    - Identified the problem with the current system
+    - Created machine learning model and demo
 
 ## Education
 ---
