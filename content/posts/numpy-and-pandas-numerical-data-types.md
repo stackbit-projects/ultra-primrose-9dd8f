@@ -158,3 +158,26 @@ train_df
 </div>
 {{</rawhtml >}}
 <cite>https://www.kaggle.com/c/riiid-test-answer-prediction/overview</cite>
+
+```python
+train_df.info()
+ 
+>> <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 100000000 entries, 0 to 99999999
+Data columns (total 10 columns):
+ #   Column                          Dtype  
+---  ------                          ----- 
+ 0   row_id                          int64  
+ 1   timestamp                       int64  
+ 2   user_id                         int64  
+ 3   content_id                      int64  
+ 4   content_type_id                 int64  
+ 5   task_container_id               int64  
+ 6   user_answer                     int64  
+ 7   answered_correctly              int64  
+ 8   prior_question_elapsed_time     float64
+ 9   prior_question_had_explanation  object
+dtypes: float64(1), int64(8), object(1)
+memory usage: 7.5+ GB
+
+```
