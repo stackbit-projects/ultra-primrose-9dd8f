@@ -99,3 +99,25 @@ Int16	| 154 | 2.23 |
 </cite>
 
 2. Numpy Matrix multiplication
+```python
+import numpy as np
+mat = np.random.randint(0,80,(1000,1000))
+ 
+mat = mat.astype(np.float64)
+%timeit mat.dot(mat)
+ 
+mat = mat.astype(np.float32)
+%timeit mat.dot(mat)
+ 
+mat = mat.astype(np.float16)
+%timeit mat.dot(mat)
+ 
+mat = mat.astype(np.int64)
+%timeit mat.dot(mat)
+ 
+mat = mat.astype(np.int32)
+%timeit mat.dot(mat)
+ 
+mat = mat.astype(np.int16)
+%timeit mat.dot(mat)
+```
