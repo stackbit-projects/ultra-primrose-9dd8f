@@ -31,12 +31,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science journey in 2017, when one of the biggest E-commerce company came to the college to gave workshop about Data Analytics. Now, he works as a Data Scientist in the same company who introduced him to Data Science.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+## Work Experience
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
