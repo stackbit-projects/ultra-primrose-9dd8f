@@ -35,10 +35,11 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
 ## Work Experience
 ---
-- Data Scientist, Tokopedia
-- Data Scientist, PT Mandala Multifinance
-- Data Analyst, Purple Analytics
-- Data Scientist, PT Telkom Indonesia
+- **Data Scientist, Tokopedia**
+
+- **Data Scientist, PT Mandala Multifinance**
+- **Data Analyst, Purple Analytics**
+- **Data Scientist, PT Telkom Indonesia**
 
 ## Education
 ---
