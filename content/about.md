@@ -101,7 +101,7 @@ language.
 ---
 **Data Science**, Mathematics, Statistics, Computer Vision,Recommender System, Data Structures   
 **Python**, R, SQL, C
-**Pytorch**, Tensorflow, **Plotly-Dash**   
+**Pytorch**, Tensorflow, **Plotly-Dash**, MLFlow   
 Tableau, **Apache Superset**, Git   
 
 ## Competition Experience
