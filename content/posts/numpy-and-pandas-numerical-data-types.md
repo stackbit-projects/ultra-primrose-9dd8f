@@ -64,7 +64,7 @@ df
 {{<rawhtml>}}
 
 <div align="center">
-<img src="https://ik.imagekit.io/pwhcix71iqy/dummy_df_V-uAaLDPLi6.png" width="100%"> </img>
+<img src="https://ik.imagekit.io/pwhcix71iqy/dummy_df_V-uAaLDPLi6.png" width="50%"> </img>
 </div>
 {{</rawhtml >}}
 ```python
