@@ -46,7 +46,7 @@ Internship, May 2018 - July 2019
 
 ## Education
 ---
-- Institut Teknologi Bandung
+- B.Sc in Institut Teknologi Bandung
 
 ## Workshop given
 ---
