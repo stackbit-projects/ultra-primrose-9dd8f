@@ -50,6 +50,7 @@ Internship, May 2018 - July 2019
 August 2016 - October 2020
 Undergrad Thesis : Human Motion Trajectory Prediction with Deep Learning
 
+
 ## Workshop given
 ---
 - **Speaker at “Cashless Society, Sudah Siapkah Indonesia?" talks**  
