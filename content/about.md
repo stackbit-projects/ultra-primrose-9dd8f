@@ -47,7 +47,7 @@ Internship, May 2018 - July 2019
 ## Education
 ---
 - **B.Sc in Mathematics, Institut Teknologi Bandung**  
-August 2016 - October 2020, GPA 3.66 (Cum Laude*)
+August 2016 - October 2020, GPA 3.66 (*Cum Laude*)
 Undergrad Thesis : Human Motion Trajectory Prediction with Deep Learning 
 Most of the classes I took related to Statistics. I also took some class from Computer Science(Data Structure and Databases).
 Active participation in Data Science competitions and student organization.
