@@ -42,4 +42,4 @@ import numpy as np
 np.array(100000.0,dtype=np.float16)
 > array(inf, dtype=float16) # Output
 ```
-
+I’m still not sure why calculating mean resulted in nan instead of Inf, but my point still not change that using the wrong data type could led you to wrong result.
