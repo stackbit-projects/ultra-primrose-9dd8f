@@ -129,6 +129,7 @@ Given data from Mamikos, our objective is to predict the right price to give ren
 house(kost). Things I do includes : Imputate missing value through Data Exploration(by using
 Alluvial plot, correlation and geographical fact), create and optimize Gradient Boosting
 Machine to predict the right price
+  
 - **Finalist In-Country at EY NextWave Data Science Challenge**  
 Ernst & Young, May 2019  
 Given trajectory record of mobile device in Atlanta City , we asked to predict whether the
