@@ -55,6 +55,7 @@ Deep Learning
     - Web mockup for showing recommendation system result using
 Django and successfully deploy it to local server and Heroku.
     - Heatmaps generation for people detection analysis
+  
 - **Lab Assistant of Statistics, ITB**  
 Part time, September 2018 - December 2019  
 Help students to apply statistical methods such as :
@@ -64,6 +65,7 @@ Help students to apply statistical methods such as :
     - Spatial Analysis
     - Statistical Process Control
 in R programming language for Data Analysis and Basic Statistics courses.
+  
 - **Data Scientist, PT Telkom Indonesia**  
 Internship, May 2018 - July 2019  
 Worked on a joint project between PT Telekomunikasi Indonesia with PT Jasa Marga to improve vehicle counting system on rest area.  
