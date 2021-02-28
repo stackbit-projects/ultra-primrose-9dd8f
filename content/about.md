@@ -99,7 +99,7 @@ language.
 
 ## Skill and Knowledge
 ---
-**Data Science**, Mathematics, Statistics, Computer Vision, Data Structures  
+**Data Science**, Mathematics, Statistics, Computer Vision, Data Structures, Recommender System  
 **Python**, R, SQL, C
 **Pytorch**, Tensorflow, **Plotly-Dash**   
 Tableau, **Apache Superset**, Git   
