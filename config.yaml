@@ -26,7 +26,7 @@ params:
     has_social: true
     social_links:
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'http://github.com/vinson2233/'
         style: icon
         icon_class: github
         new_window: true
