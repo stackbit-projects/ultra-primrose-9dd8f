@@ -48,6 +48,8 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
 ## Skill
 
+## Competition Experience
+
 ## Hobby
 > I'll just keep moving forward
 <cite>Eren Yēgā</cite>
