@@ -133,6 +133,3 @@ problem, done tons of feature engineering and feed it into Gradient Boosting Mac
 - Hash run(But I don't drink) and badminton
 - Playing JRPG games (Huge fan of all the trails series)
 
-> I'll just keep moving forward
-<cite>Eren Jäger</cite>
-
