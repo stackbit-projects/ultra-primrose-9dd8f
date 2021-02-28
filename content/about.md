@@ -59,6 +59,7 @@ Created a 1 days workshop to taught the basics of supervised learning using R pr
 language.
 
 ## Skill
+Knowledge : Data Science, Mathematics, Statistics, 
 Programming Language : Python, R, SQL
 Tools : Tableau, Git
 
