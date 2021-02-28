@@ -35,7 +35,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
 ## Work Experience
 ---
-
+- 
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
