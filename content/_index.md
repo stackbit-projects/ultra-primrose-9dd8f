@@ -40,5 +40,8 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
+  description: >-
+    Read topics about Data Science, AI, Machine Learning, Python that's rarely
+    covered by other websites.
 layout: advanced
 ---
