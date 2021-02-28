@@ -141,6 +141,10 @@ from sys import getsizeof
 a_float = [float(x) for x in list(range(1,100000000))]
 getsizeof(a_float)/1024/1024
 >> 819.8971405029297
+
+a_int = list(range(1,100000000))
+getsizeof(a_int)/1024/1024
+>> 762.9394989013672
 ```
 
 ```python
