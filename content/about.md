@@ -106,7 +106,7 @@ language.
 ## Skill and Knowledge
 ---
 **Data Science**, Mathematics, Statistics, Computer Vision,Recommender System, Data Structures   
-**Python**, R, SQL, C
+**Python**, R, SQL, C  
 **Pytorch**, Tensorflow, **Plotly-Dash**, MLFlow, Kafka  
 Tableau, **Apache Superset**, Git   
 
