@@ -215,3 +215,4 @@ Data columns (total 10 columns):
 dtypes: boolean(1), float32(1), int16(2), int32(1), int64(2), int8(3)
 memory usage: 3.1 GB
 ```
+Now the dataset become 3.1 GB
