@@ -17,8 +17,9 @@ layout: post
 thumb_img_path: images/sklearn vs numpy vs numba.jpg
 content_img_path: images/sklearn vs numpy vs numba.jpg
 ---
-Welcome to my first blog. Recently I started to develop my package, and my priorities are maximizing speed. I found many things in Sklearn that works quite slow. This is not a blog about tutorial using Sklearn, NumPy or Numba but this blog serves purpose for speed comparison across several libraries.\
-tldr, just skip to the [conclusion part](#conclusion)
+Photo by [**nappy**](https://www.pexels.com/@nappy?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/man-wearing-white-sweater-and-black-shorts-about-to-run-936094/?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels)
+
+Welcome to my first blog. Recently I started to develop my package, and my priorities are maximizing speed. I found many things in Sklearn that works quite slow. This is not a blog about tutorial using Sklearn, NumPy or Numba but this blog serves purpose for speed comparison across several libraries.tldr, just skip to the [conclusion part](#conclusion)
 
 Here’s my machine spec :
 
@@ -332,6 +333,7 @@ class linreg_numba :
 # Conclusion
 
 {{<rawhtml>}}
+
 <div align="center">
 <img src="https://ik.imagekit.io/pwhcix71iqy/conclusion_2021-02-20_UFaJlnFZz.png" width="100%"> </img>
 </div>
