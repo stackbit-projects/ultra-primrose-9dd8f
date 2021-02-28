@@ -1,6 +1,6 @@
 ---
 title: Sklearn vs Numpy vs Numba speed comparison
-subtitle: Evaluation metric and building linear regression model
+subtitle: Evaluation metric and building linear regression model. Images
 date: '2021-02-27'
 thumb_img_alt: Sklearn vs Numpy vs Numba
 content_img_alt: Sklearn vs Numpy vs Numba
