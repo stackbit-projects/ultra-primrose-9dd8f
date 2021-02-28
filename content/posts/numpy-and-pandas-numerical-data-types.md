@@ -130,3 +130,4 @@ mat = mat.astype(np.int16)
 |   Int64   |        1560       |           165           |
 |   Int32   |        1370       |           144           |
 |   Int16   |        1640       |           210           |
+<cite>Float32 turn out to be fastest.</cite>
