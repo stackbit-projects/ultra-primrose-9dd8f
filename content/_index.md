@@ -16,7 +16,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: 'Vinson personal Blog | Data Science, Anaytics, Mathematics'
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
