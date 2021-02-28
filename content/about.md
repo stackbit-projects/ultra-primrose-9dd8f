@@ -46,7 +46,7 @@ Take part to deliver digital transformation to Mandala Multifinance :
     - Created scoring prediction services that connected to Kafka services
     - Developed Anomaly Detection worflow
 - **Data Analyst, Purple Analytics**  
-Internship, June 2019 - August 2020
+Internship, June 2019 - August 2020  
 With a team of 2, we created :
     - Recommendation system using KNN, Matrix Factorization and
 Deep Learning
