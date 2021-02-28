@@ -59,7 +59,7 @@ Created a 1 days workshop to taught the basics of supervised learning using R pr
 language.
 
 ## Skill
-- Python
+Tech-Stack
 
 ## Competition Experience
 
