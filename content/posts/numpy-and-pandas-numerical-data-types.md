@@ -47,3 +47,6 @@ I’m still not sure why calculating mean resulted in nan instead of Inf, but my
 
 ## Speed
 I will conduct several experiment to see the effect of changing datatype. Could it increase the speed? In theory, more precise data type lead to slower calculation time.
+
+1. Pandas aggregation
+I will create a simple dataframe with one categorical variable and one random integer. I will do several aggregation with different type of data type and see how fast/slow it’s gonna be.
