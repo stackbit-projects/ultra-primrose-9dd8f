@@ -2,7 +2,7 @@
 title: About Me
 subtitle: Who I am ? What I am doing ?
 img_path: images/IMG_20191230_103442.jpg
-img_alt: Handsome man during vacation in 
+img_alt: Handsome man during vacation in Borobudur
 seo:
   title: About Me
   description: This is the about me page
