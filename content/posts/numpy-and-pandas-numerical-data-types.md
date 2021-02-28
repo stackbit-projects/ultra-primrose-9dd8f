@@ -181,4 +181,4 @@ dtypes: float64(1), int64(8), object(1)
 memory usage: 7.5+ GB
 ```
 
-The dataset itself use more than 7.5 GB of memory. All the integer stored as int64 and the boolean column store as string/object. Let we fix this by specifying the correct/efficient datatype.
+The dataset itself use more than 7.5 GB of memory. All the integer stored as int64 and the boolean column store as string/object. Let we fix this by specifying the correct/efficient datatype.  
