@@ -122,7 +122,7 @@ mat = mat.astype(np.int16)
 %timeit mat.dot(mat)
 ```
 
-Data Type	Average Time (ms)	Standard Deviation (ms)
+Data Type	| Average Time (ms)	Standard Deviation (ms)
 Float64	50.1	6.28
 Float32	23	2.41
 Float16	5620	611
