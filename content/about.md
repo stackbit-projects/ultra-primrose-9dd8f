@@ -35,11 +35,14 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
 ## Work Experience
 ---
-- **Data Scientist, Tokopedia**
-
+- **Data Scientist, Tokopedia**  
+Fulltime, February 2021 - Present
 - **Data Scientist, PT Mandala Multifinance**
+Contract, June 2020 - January 2021
 - **Data Analyst, Purple Analytics**
+Internship, May 2019 - July 2020
 - **Data Scientist, PT Telkom Indonesia**
+Internship, May 2018 - July 2019
 
 ## Education
 ---
@@ -80,6 +83,3 @@ Tableau, **Apache Superset**, Git
 > I'll just keep moving forward
 <cite>Eren Jäger</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
