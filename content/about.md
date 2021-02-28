@@ -125,7 +125,7 @@ Vinson Ciawandy is a Data Scientist from Indonesia. He begun his Data Science jo
 
 ***
 
-**Data Science**, Mathematics, Statistics, Computer Vision,Recommender System, Data Structures\
+*   **Data Science**, Mathematics, Statistics, Computer Vision,Recommender System, Data Structures\
 **Python**, R, SQL, C\
 **Pytorch**, Tensorflow, **Plotly-Dash**, MLFlow, Kafka\
 Tableau, **Apache Superset**, Git
