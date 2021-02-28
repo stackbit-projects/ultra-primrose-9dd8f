@@ -2,7 +2,7 @@
 title: Numpy and Pandas numerical data types
 subtitle: 'Stability, Speed and Memory Usage.'
 date: '2021-02-28'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Man holding Pizza
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
