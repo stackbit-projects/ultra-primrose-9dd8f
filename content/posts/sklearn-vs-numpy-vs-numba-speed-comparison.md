@@ -15,6 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/sklearn vs numpy vs numba.jpg
+content_img_path: images/sklearn vs numpy vs numba.jpg
 ---
 
 Welcome to my first blog. Recently I started to develop my package, and my priorities are maximizing speed. I found many things in Sklearn that works quite slow. This is not a blog about tutorial using Sklearn, NumPy or Numba but this blog serves purpose for speed comparison across several libraries.  
