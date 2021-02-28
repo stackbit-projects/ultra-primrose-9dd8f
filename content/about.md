@@ -107,7 +107,7 @@ Tableau, **Apache Superset**, Git
 ## Competition Experience
 ---
 - **2nd posititon at PETSROCHINA Paper and Exhibition Competition
-APECX UGM**  
+APECX UGM  
 In a team of 3, we wrote "Inferring Production Rates of a Rod Pumped Well Using Keras
 Neural Network and Random Forest"
 -- **1st position at Data Analysis Competition**
