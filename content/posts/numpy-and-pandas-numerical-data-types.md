@@ -134,5 +134,5 @@ mat = mat.astype(np.int16)
 
 Float is faster than integer for this test, but [Float16 is really slow](https://stackoverflow.com/questions/15340781/python-numpy-data-types-performance) compared to the rest. Why? It turns out that float 16 are not supported natively by most processors (What they actually did are emulating float16-like behavior).
 
-Memory
+## Memory
 In Python, float data type use more memory than int which is make sense.
