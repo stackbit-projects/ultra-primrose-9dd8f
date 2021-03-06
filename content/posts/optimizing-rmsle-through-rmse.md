@@ -50,3 +50,5 @@ Prediction = 10 with Actual = 100 gives roughly the same RMSLE with Prediction =
 Also, RMSLE are not symetric across the actual value. If we have actual value 500, prediction = 0 give higher RMSLE than prediction = 1000 (even tough both have distance 500 from actual value).
 
 Because of these properties, intuitively minimizing RMSE ≠ minimizing RMSLE.
+
+# Trick for optimizing RMSLE trough RMSE
