@@ -2,7 +2,7 @@
 subtitle: for any machine learning and any programming language with a simple math trick
 date: '2021-03-06'
 seo:
-  title: ''
+  title: Optimize RMSLE through RMSE
   robots: []
   extra: []
   type: stackbit_page_meta
