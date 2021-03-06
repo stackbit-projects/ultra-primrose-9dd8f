@@ -17,7 +17,7 @@ excerpt: >-
   You need to optimize RMSLE(L for Logarithmic), but your model only know RMSE
   optimization.  Is there still anything love can do?
 ---
-<cite>Photo by [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels</cite>
+<cite>Photo by [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels]</cite>
 
 ## What's the problem?
 
