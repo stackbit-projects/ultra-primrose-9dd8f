@@ -126,7 +126,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
     <img src="https://ik.imagekit.io/pwhcix71iqy/image-2_IIZ6lmflfFFm.png" width="30%"> </img>
 </div>
 <div align="center">
-<cite>Basically every prediction are function of the input.</cite>
+<cite>Subtituting the right part and now our RMSLE have the exact form of RMSE</cite>
 </div>
 {{</rawhtml >}}
 
