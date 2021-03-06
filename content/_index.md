@@ -27,8 +27,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Fresh Theme
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
