@@ -56,3 +56,5 @@ Because of these properties, intuitively minimizing RMSE ≠ minimizing RMSLE.
 # Trick for optimizing RMSLE trough RMSE
 
 If your machine learning libraries only support RMSE/MSE optimization while what you need is RMSLE optimization, then the trick is to transform your target variable so it share the same form as RMSLE.
+
+https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png
