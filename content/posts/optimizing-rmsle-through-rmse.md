@@ -161,7 +161,7 @@ np.sqrt(MSLE(predict_new.Label,test.charges))
 >> 0.43920470684686724
 ```
 
-```python
+```py
 #With RMSLE trick
 from pycaret.datasets import get_data
 from sklearn.model_selection import train_test_split
