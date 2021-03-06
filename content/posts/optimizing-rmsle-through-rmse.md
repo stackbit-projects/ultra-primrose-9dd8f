@@ -84,6 +84,8 @@ Here's the detail :
 # Why this trick would works
 I don’t have any rigorous proof about why this trick works, but I can give some intuitive explanation why this works.
 
+https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_190544_acSWo4M2U.png
+
 # Experimentation
 
 I will use Python and R to demonstrate the technique into 2 different dataset.
