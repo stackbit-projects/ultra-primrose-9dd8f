@@ -1,7 +1,6 @@
 ---
 subtitle: lorem-ipsum
 date: '2021-03-06'
-thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: ''
