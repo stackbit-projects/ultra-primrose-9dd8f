@@ -1,7 +1,6 @@
 ---
 subtitle: lorem-ipsum
 date: '2021-03-06'
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
