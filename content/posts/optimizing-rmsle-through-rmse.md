@@ -60,7 +60,7 @@ If your machine learning libraries only support RMSE/MSE optimization while what
 {{<rawhtml>}}
 <div align="center">
     <img src="
-https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="40%"> </img>
+https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="30%"> </img>
 </div>
 <div align="center">
 <cite>aaaa</cite>
