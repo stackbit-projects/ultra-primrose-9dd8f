@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/optimize-rmsle-trough-rmse.jpg
-title: 'Optimize '
+title: Optimize Rmse troguh RMSLE
 ---
 ## Lorem ipsum
 
