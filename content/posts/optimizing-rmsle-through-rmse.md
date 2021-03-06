@@ -103,6 +103,15 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 </div>
 {{</rawhtml >}}
 
+{{<rawhtml>}}
+<div align="center">
+    <img src="https://ik.imagekit.io/pwhcix71iqy/image-2_IIZ6lmflfFFm.png" width="30%"> </img>
+</div>
+<div align="center">
+<cite>Let’s define our random variable z_i.</cite>
+</div>
+{{</rawhtml >}}
+
 # Experimentation
 
 I will use Python and R to demonstrate the technique into 2 different dataset.
