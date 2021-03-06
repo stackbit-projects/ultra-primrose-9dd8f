@@ -17,13 +17,6 @@ params:
       - label: Posts
         url: /blog/
         style: link
-      - label: NBM-Posts
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
       - label: About Me
         url: /about/
         style: link
