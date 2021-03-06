@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_img_path: images/optimize-rmsle-trough-rmse.jpg
+thumb_img_path: images/remarkable-whale.jpg
 title: Optimize Rmse troguh RMSLE
 ---
 ## Lorem ipsum
