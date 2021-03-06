@@ -4,7 +4,11 @@ date: '2021-03-06'
 seo:
   title: Optimize RMSLE through RMSE
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/optimize-rmsle-trough-rmse copy.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
   description: >-
     If you model can minimize RMSE, than your model can minimize RMSLE too with
