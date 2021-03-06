@@ -13,6 +13,7 @@ thumb_img_path: images/optimize-rmsle-trough-rmse.jpg
 title: Optimize RMSLE through RMSE
 content_img_path: images/remarkable-whale.jpg
 thumb_img_alt: Plane
+content_img_alt: Plane
 ---
 ## Lorem ipsum
 
