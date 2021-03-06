@@ -82,6 +82,7 @@ Here's the detail :
 4. Transform your prediction result into y = exp(z) – 1
 
 # Why this trick would works
+I don’t have any rigorous proof about why this trick works, but I can give some intuitive explanation why this works.
 
 # Experimentation
 
