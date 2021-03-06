@@ -87,3 +87,52 @@ I will use Python and R to demonstrate the technique into 2 different dataset.
 
 For the first one I will use R & Caret to model [Bike Sharing](https://www.kaggle.com/c/bike-sharing-demand) Data.
 I use caret because it able to automatically do hyperparameter tuning for my xgboost model.
+
+```
+	
+library(caret)
+library(lubridate)
+library(MLmetrics)
+data = read.csv("train.csv")
+ 
+#Simple feature engineering
+data$datetime = ymd_hms(data$datetime)
+data$hour = hour(data$datetime)
+data$day = wday(data$datetime)
+data$year = year(data$datetime)
+ 
+#Split the data into train and test set
+train = data[0:9000,]
+test = data[9000:nrow(data),]
+ 
+#Define what variables we would use as predictor and respone
+prediction_formula = formula(count~season+workingday+weather+temp+humidity+windspeed+hour+day+year)
+ 
+#WITHOUT RMSLE TRICK
+#Use 5-folds cross validation during hyperparam optimization
+fitControl <- trainControl(method = "cv",number = 5)
+model.cv <- train(prediction_formula,
+                  data = train,
+                  method = "xgbTree",  #use xgboost
+                  trControl = fitControl) 
+prediction = predict(model.cv,test)
+ 
+#Convert negative prediction into 0
+prediction = ifelse(prediction<0,0,prediction)
+RMSLE(prediction,test$count)
+> 0.6929696
+ 
+#WITH RMSLE TRICK
+#Transform the target variable
+train$count = log(train$count+1)
+model.cv <- train(prediction_formula,
+                  data = train,
+                  method = "xgbTree",
+                  trControl = fitControl) 
+prediction = predict(model.cv,test)
+#Revert the prediction to the original scale
+prediction = exp(prediction)-1
+prediction = ifelse(prediction<0,0,prediction)
+RMSLE(prediction,test$count)
+> 0.3510241
+```
