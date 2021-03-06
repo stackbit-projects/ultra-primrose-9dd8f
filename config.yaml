@@ -17,12 +17,6 @@ params:
       - label: Posts
         url: /blog/
         style: link
-      - label: About Me
-        url: /about/
-        style: link
-      - label: Contact
-        url: /contact/
-        style: link
       - label: lorem-ipsum
         url: '#'
         style: link
@@ -30,6 +24,12 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - label: About Me
+        url: /about/
+        style: link
+      - label: Contact
+        url: /contact/
+        style: link
     has_social: true
     social_links:
       - label: GitHub
