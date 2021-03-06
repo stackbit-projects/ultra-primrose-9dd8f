@@ -29,7 +29,7 @@ Some sophisticated libraries such as TensorFlow give the option to optimize RMSL
 Let’s take a quick recap about the difference between these metric
 {{<rawhtml>}}
 <div align="center">
-<img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_114510_GAR6szpSyqu.png" width="50%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_114510_GAR6szpSyqu.png" width="50%"> </img>
 </div>
 
 <div align="center">
