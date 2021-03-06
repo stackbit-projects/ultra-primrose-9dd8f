@@ -158,3 +158,23 @@ np.sqrt(MSLE(predict_new.Label,test.charges))
 >> 0.43920470684686724
 ```
 
+```python
+#With RMSLE trick
+from pycaret.datasets import get_data
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_log_error as MSLE
+import numpy as np
+from pycaret.regression import *
+ 
+data = get_data('insurance');
+train,test = train_test_split(data,train_size=0.75,random_state=2233)
+ 
+train.charges = np.log(train.charges+1)
+reg2 = setup(train, target = 'charges', session_id=123, log_experiment=True, experiment_name='insurance2')
+best_model = compare_models(fold=5)
+ 
+predict_new = predict_model(best_model, data=test)
+predict_new.Label = np.exp(predict_new.Label)-1
+np.sqrt(MSLE(predict_new.Label,test.charges))
+>> 0.4318665993748389
+```
