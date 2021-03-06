@@ -82,3 +82,8 @@ Here's the detail :
 4. Transform your prediction result into y = exp(z) – 1
 
 # Experimentation
+
+I will use Python and R to demonstrate the technique into 2 different dataset.
+
+For the first one I will use R & Caret to model Bike Sharing Data.
+I use caret because it able to automatically do hyperparameter tuning for my xgboost model.
