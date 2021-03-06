@@ -17,6 +17,8 @@ excerpt: >-
   You need to optimize RMSLE(L for Logarithmic), but your model only know RMSE
   optimization.  Is there still anything love can do?
 ---
+<cite><\cite>
+
 ## What's the problem?
 
 Sometimes, RMSE(Root Mean Squared Error) isn’t the best metric to solve your problem, so you decided to use RMSLE (Root Mean Square Logarithmic Error), or the competition you participate in are using RMSLE instead of the usual RMSE for judging criteria.
