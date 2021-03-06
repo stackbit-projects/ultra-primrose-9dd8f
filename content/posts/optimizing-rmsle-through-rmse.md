@@ -15,7 +15,7 @@ thumb_img_alt: Plane
 content_img_alt: Plane
 excerpt: >-
   You need to optimize RMSLE(L for Logarithmic), but your model only know RMSE
-  optimization
+  optimization. 
 ---
 ## Lorem ipsum
 
