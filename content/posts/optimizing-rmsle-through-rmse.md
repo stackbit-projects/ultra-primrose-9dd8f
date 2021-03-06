@@ -38,8 +38,7 @@ Let’s take a quick recap about the difference between these metric
 {{</rawhtml >}}
 
 By logarithmic property, RMSLE can be written as :
-
-<div align="center">
+{{<rawhtml>}}lign="center">
 <img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_114532__M_eAO9H24.png" width="75%"> </img>
 </div>
 {{</rawhtml >}}
