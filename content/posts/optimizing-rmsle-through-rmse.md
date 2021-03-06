@@ -13,6 +13,7 @@ seo:
 layout: post
 thumb_img_path: images/remarkable-whale.jpg
 title: Optimize Rmse troguh RMSLE
+content_img_path: images/remarkable-whale.jpg
 ---
 ## Lorem ipsum
 
