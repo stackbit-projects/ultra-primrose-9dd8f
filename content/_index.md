@@ -22,7 +22,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/sklearn%20vs%20numpy%20vs%20numba.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
