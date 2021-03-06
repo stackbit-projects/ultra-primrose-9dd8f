@@ -156,3 +156,4 @@ best_model = compare_models(fold=5)
 predict_new = predict_model(best_model, data=test)
 np.sqrt(MSLE(predict_new.Label,test.charges))
 >> 0.43920470684686724
+```
