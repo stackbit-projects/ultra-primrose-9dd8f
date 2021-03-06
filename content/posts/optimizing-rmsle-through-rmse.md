@@ -76,7 +76,7 @@ You model the data using z as target instead of y. After getting the prediction,
 <div align="center">
 {{</rawhtml >}}
 
-
+Here's the detail :  
 1. Do your EDA and feature engineering like usual
 2. Transform the target variable into z = log(y+1)
 3. Build machine learning model that optimized for RMSE/MSE to predict z
