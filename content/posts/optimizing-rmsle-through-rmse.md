@@ -3,7 +3,6 @@ subtitle: for any machine learning and any programming language with a simple ma
 date: '2021-03-06'
 seo:
   title: ''
-  description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
