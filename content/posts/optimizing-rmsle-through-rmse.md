@@ -52,3 +52,5 @@ Also, RMSLE are not symetric across the actual value. If we have actual value 50
 Because of these properties, intuitively minimizing RMSE ≠ minimizing RMSLE.
 
 # Trick for optimizing RMSLE trough RMSE
+
+If your machine learning libraries only support RMSE/MSE optimization while what you need is RMSLE optimization, then the trick is to transform your target variable so it share the same form as RMSLE.
