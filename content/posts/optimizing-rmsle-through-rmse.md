@@ -101,6 +101,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 <div align="center">
 <cite>Let’s define our random variable z_i.</cite>
 </div>
+<br>
 {{</rawhtml >}}
 
 {{<rawhtml>}}
