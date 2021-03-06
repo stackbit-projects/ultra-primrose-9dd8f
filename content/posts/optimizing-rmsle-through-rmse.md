@@ -106,7 +106,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/image-3_zAeDC2RDIE.png" width="30%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/image-3_zAeDC2RDIE.png" width="35%"> </img>
 </div>
 <div align="center">
 <cite>Subtituting our new random variable</cite>
