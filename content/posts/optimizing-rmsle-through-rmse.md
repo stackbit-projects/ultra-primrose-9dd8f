@@ -111,6 +111,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 <div align="center">
 <cite>Subtituting our new random variable</cite>
 </div>
+<br>
 {{</rawhtml >}}
 
 {{<rawhtml>}}
