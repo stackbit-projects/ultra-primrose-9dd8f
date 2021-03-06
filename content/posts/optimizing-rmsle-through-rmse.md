@@ -13,6 +13,9 @@ title: Optimize RMSLE through RMSE
 content_img_path: images/remarkable-whale.jpg
 thumb_img_alt: Plane
 content_img_alt: Plane
+excerpt: >-
+  You need to optimize RMSLE(L for Logarithmic), but your model only understand
+  RMSE 
 ---
 ## Lorem ipsum
 
