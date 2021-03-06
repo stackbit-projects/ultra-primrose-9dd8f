@@ -68,3 +68,13 @@ https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="30%"> </img>
 {{</rawhtml >}}
   
 You model the data using z as target instead of y. After getting the prediction, revert back the result with simple transformation 
+
+{{<rawhtml>}}
+<div align="center">
+    <img src="
+https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="30%"> </img>
+</div>
+<div align="center">
+<cite>log in here is natural logarithmic</cite>
+</div>
+{{</rawhtml >}}
