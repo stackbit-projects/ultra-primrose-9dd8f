@@ -81,6 +81,8 @@ Here's the detail :
 3. Build machine learning model that optimized for RMSE/MSE to predict z
 4. Transform your prediction result into y = exp(z) – 1
 
+# What
+
 # Experimentation
 
 I will use Python and R to demonstrate the technique into 2 different dataset.
