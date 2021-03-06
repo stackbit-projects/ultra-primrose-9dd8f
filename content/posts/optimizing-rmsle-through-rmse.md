@@ -67,6 +67,7 @@ https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="30%"> </img>
 </div>
 {{</rawhtml >}}
   
+  
 You model the data using z as target instead of y. After getting the prediction, revert back the result with simple transformation 
 
 {{<rawhtml>}}
