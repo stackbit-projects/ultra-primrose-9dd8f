@@ -10,7 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_img_path: images/remarkable-whale.jpg
+thumb_img_path: images/optimize-rmsle-trough-rmse.jpg
 title: Optimize RMSLE through RMSE
 content_img_path: images/remarkable-whale.jpg
 ---
