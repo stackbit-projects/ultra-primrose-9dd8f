@@ -86,7 +86,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_190544_acSWo4M2U.png" width="70%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_190544_acSWo4M2U.png" width="60%"> </img>
 </div>
 <div align="center">
 <cite>How do we optimize this? We should convert this into RMSE-lookalike form</cite>
