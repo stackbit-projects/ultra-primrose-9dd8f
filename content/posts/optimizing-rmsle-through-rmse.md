@@ -45,5 +45,5 @@ By logarithmic property, RMSLE can be written as :
 By seeing this form, you should get that RMSLE focus on ratio between the actual value and the prediction value. Prediction = 10 with Actual = 100 gives roughly the same RMSLE with Prediction = 100 with Actual = 1000.
 Also, RMSLE are not symetric across the actual value. If we have actual value 500, prediction = 0 give higher RMSLE than prediction = 1000 (even tough both have distance 500 from actual value).
 
-Because of these properties, intuitively minimizing RMSE $\neq$ minimizing RMSLE.
+Because of these properties, intuitively minimizing RMSE ≠ minimizing RMSLE.
 {{</rawhtml >}}
