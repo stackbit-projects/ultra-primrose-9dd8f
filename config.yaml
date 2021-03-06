@@ -17,7 +17,7 @@ params:
       - label: Posts
         url: /blog/
         style: link
-      - label: lorem-ipsum
+      - label: NBM-Articels
         url: '#'
         style: link
         icon_class: dev
