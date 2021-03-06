@@ -19,9 +19,10 @@ excerpt: >-
 ---
 <cite>Photo by [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/male-hand-with-white-toy-plane-3754680/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)</cite>
 
-## What's the problem?
+# What's the problem?
 
 Sometimes, RMSE(Root Mean Squared Error) isn’t the best metric to solve your problem, so you decided to use RMSLE (Root Mean Square Logarithmic Error), or the competition you participate in are using RMSLE instead of the usual RMSE for judging criteria.
 
 Some sophisticated libraries such as TensorFlow give the option to optimize RMSLE directly, but most of the machine learning libraries out there don’t support RMSLE optimization directly, but only for RMSE or MSE
 
+# RMSE vs RMSLE
