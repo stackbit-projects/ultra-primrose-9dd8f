@@ -1,5 +1,5 @@
 ---
-subtitle: for any machine learning without additional libraries
+subtitle: for any machine learning
 date: '2021-03-06'
 seo:
   title: ''
