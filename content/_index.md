@@ -29,8 +29,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
-    - name: 'twitter:description'
-      value: The preview of the Fresh theme
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
