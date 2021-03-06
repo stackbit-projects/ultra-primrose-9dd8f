@@ -71,7 +71,7 @@ You model the data using z as target instead of y. After getting the prediction,
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="30%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_135319_zXTuW4C9rcg.png" width="30%"> </img>
 </div>
 {{</rawhtml >}}
 
