@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/remarkable-whale.jpg
-title: Optimize RMSLE through RMSLE
+title: Optimize RMSLE through RMSE
 content_img_path: images/remarkable-whale.jpg
 ---
 ## Lorem ipsum
