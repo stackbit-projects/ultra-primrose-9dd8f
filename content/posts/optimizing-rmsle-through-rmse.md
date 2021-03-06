@@ -62,4 +62,3 @@ If your machine learning libraries only support RMSE/MSE optimization while what
     <img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_114842_KBkOU2uI9z9p.png" width="55%"> </img>
 </div>
 {{</rawhtml >}}
-https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png
