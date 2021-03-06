@@ -121,6 +121,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 <div align="center">
 <cite>Basically every prediction are function of the input.</cite>
 </div>
+<br>
 {{</rawhtml >}}
 
 {{<rawhtml>}}
