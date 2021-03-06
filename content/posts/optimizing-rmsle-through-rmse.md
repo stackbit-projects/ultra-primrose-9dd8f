@@ -135,3 +135,7 @@ prediction = ifelse(prediction<0,0,prediction)
 RMSLE(prediction,test$count)
 > 0.3510241
 ```
+
+The RMSLE on the test data significantly improve from 0.69 into 0.35 after applying this technique.
+
+For the second experiment, I use Python and PyCaret on Insurance Medical Dataset
