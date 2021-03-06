@@ -114,7 +114,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/image-2_IIZ6lmflfFFm.png" width="30%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/image_2020-12-01_191711_BI4Y4b4yEqe.png" width="30%"> </img>
 </div>
 <div align="center">
 <cite>Basically every prediction are function of the input.</cite>
