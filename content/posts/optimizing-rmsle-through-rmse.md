@@ -1,5 +1,5 @@
 ---
-subtitle: lorem-ipsum
+subtitle: with
 date: '2021-03-06'
 seo:
   title: ''
