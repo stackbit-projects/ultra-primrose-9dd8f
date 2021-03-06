@@ -85,5 +85,5 @@ Here's the detail :
 
 I will use Python and R to demonstrate the technique into 2 different dataset.
 
-For the first one I will use R & Caret to model Bike Sharing Data.
+For the first one I will use R & Caret to model [Bike Sharing](https://www.kaggle.com/c/bike-sharing-demand) Data.
 I use caret because it able to automatically do hyperparameter tuning for my xgboost model.
