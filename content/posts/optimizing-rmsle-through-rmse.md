@@ -14,7 +14,7 @@ seo:
     If you model can minimize RMSE, than your model can minimize RMSLE too with
     this simple trick.
 layout: post
-thumb_img_path: images/optimize-rmsle-trough-rmse copy.jpg
+thumb_img_path: images/important-pineapple.jpg
 title: Optimize RMSLE through RMSE
 content_img_path: images/curious-rosemary.jpg
 thumb_img_alt: Plane
