@@ -117,7 +117,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
     <img src="https://ik.imagekit.io/pwhcix71iqy/image-2_IIZ6lmflfFFm.png" width="30%"> </img>
 </div>
 <div align="center">
-<cite>Subtituting our new random variable</cite>
+<cite>Basically every prediction are function of the input.</cite>
 </div>
 {{</rawhtml >}}
 
