@@ -16,7 +16,7 @@ seo:
 layout: post
 thumb_img_path: images/optimize-rmsle-trough-rmse copy.jpg
 title: Optimize RMSLE through RMSE
-content_img_path: images/successful-oak.jpg
+content_img_path: images/curious-rosemary.jpg
 thumb_img_alt: Plane
 content_img_alt: Plane
 author: Vinson Ciawandy
