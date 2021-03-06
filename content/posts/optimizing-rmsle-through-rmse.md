@@ -63,6 +63,6 @@ If your machine learning libraries only support RMSE/MSE optimization while what
 https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="30%"> </img>
 </div>
 <div align="center">
-<cite>aaaa</cite>
+<cite>log in here is natural logarithmic</cite>
 </div>
 {{</rawhtml >}}
