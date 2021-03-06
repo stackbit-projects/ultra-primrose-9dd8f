@@ -26,3 +26,4 @@ Sometimes, RMSE(Root Mean Squared Error) isn’t the best metric to solve your p
 Some sophisticated libraries such as TensorFlow give the option to optimize RMSLE directly, but most of the machine learning libraries out there don’t support RMSLE optimization directly, but only for RMSE or MSE
 
 # RMSE vs RMSLE
+Let’s take a quick recap about the difference between these metric
