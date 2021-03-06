@@ -123,7 +123,7 @@ I don’t have any rigorous proof about why this trick works, but I can give som
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/image-2_IIZ6lmflfFFm.png" width="30%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/image-4_muxaWCbir.png" width="30%"> </img>
 </div>
 <div align="center">
 <cite>Subtituting the right part and now our RMSLE have the exact form of RMSE</cite>
