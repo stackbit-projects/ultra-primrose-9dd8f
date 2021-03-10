@@ -4,7 +4,9 @@ subtitle: 'Stability, Speed and Memory Usage.'
 date: '2021-02-28'
 thumb_img_alt: Man holding Pizza
 content_img_alt: lorem-ipsum
-excerpt: Do you know that 0.1 + 0.2 == 0.3 will gives False in programming language?
+excerpt: >-
+  Do you know that 0.1 + 0.2 == 0.3 will gives False in most programming
+  language?
 seo:
   title: ''
   description: ''
