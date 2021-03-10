@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/sklearn%20vs%20numpy%20vs%20numba.jpg
       relativeUrl: true
   description: >-
     Read topics about Data Science, AI, Machine Learning, Python that's rarely
