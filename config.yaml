@@ -43,7 +43,7 @@ params:
       href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
   domain: 'https://vinson2233.netlify.app'
-  favicon: images/favicon2.png
+  favicon: images/favicon01.png
 taxonomies:
   stub: stub
 disableKinds:
