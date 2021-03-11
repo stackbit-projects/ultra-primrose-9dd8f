@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Who I am ? What I am doing ?
-img_path: https://ik.imagekit.io/pwhcix71iqy/Optimized-IMG_20191230_103442_YB9xvAgXY8y.jpg
+img_path: https://ik.imagekit.io/pwhcix71iqy/IMG_20191230_103442__1__f7q6pYBM9.jpg
 img_alt: Handsome man during vacation in Borobudur
 seo:
   title: 'Vinson''s blog | Data Science, Analytics, Mathematics'
