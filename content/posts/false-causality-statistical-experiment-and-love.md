@@ -79,7 +79,7 @@ From the experiment, it turns out that James’ heart-rate does increase when he
 It turns out that James’ heart-rate will increase when he is standing near any beautiful woman. Even when there is a clear statistical significance of his heart rate, it doesn’t mean that Mary is the root cause of it.
 
 # The 2nd experiment
-Because of the first mistake, let’s rewrite the causal graph
+Because of the first mistake, let’s rewrite the causal graph like this :
 
 {{<rawhtml>}}
 <div align="center">
