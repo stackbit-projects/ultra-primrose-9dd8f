@@ -13,7 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: Let's
+subtitle: Let's understand False causality
 ---
 ## Lorem ipsum
 
