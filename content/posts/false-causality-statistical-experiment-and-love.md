@@ -56,6 +56,7 @@ The hypothesis is “My heartbeat will increase when I’m standing near someone
 <div align="center">
     <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png" width="40%"> </img>
 </div>
+<br>
 <div align="center">
 <cite>This graph represents 2 events where the event of the left will cause <</cite>
 </div>
