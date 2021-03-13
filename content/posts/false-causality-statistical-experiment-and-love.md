@@ -16,6 +16,7 @@ subtitle: >-
   love and most importantly, False Causality.
 thumb_img_path: images/intro.jpg
 content_img_path: images/important-pineapple.jpg
+thumb_img_alt: a
 ---
 ## Lorem ipsum
 
