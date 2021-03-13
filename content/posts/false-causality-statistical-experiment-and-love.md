@@ -92,5 +92,5 @@ Because of the first mistake, let’s rewrite the causal graph like this :
 <br>
 {{</rawhtml >}}
 
-It turns out that the actual cause of the increasing heartbeat is to be together with a beautiful woman. That means, the previous studies resulted in False Causality.
-False causality is one of Statistical-fallacies, where a study concludes the wrong root cause of an event. One of the reasons this could happen is the existence of a Confounding variable.
+It turns out that the actual cause of the increasing heartbeat is to be together with a beautiful woman. That means, the previous studies resulted in **False Causality**.
+**False causality is one of Statistical-fallacies, where a study concludes the wrong root cause of an event. One of the reasons this could happen is the existence of a Confounding variable.
