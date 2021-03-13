@@ -54,7 +54,7 @@ The hypothesis is “My heartbeat will increase when I’m standing near someone
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png width="70%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png" width="70%"> </img>
 </div>
 <div align="center">
 <cite>Here are our main characters who have feelings for each other <</cite>
