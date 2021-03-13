@@ -3,7 +3,9 @@ title: False Causality - Statistical Experiment and Love
 date: '2021-03-13'
 seo:
   title: False Causality and Statistical Experiment
-  description: ''
+  description: >-
+    Introduction to false causality, statistical fallacies, confounding variable
+    and statistical experiments.
   robots: []
   extra: []
   type: stackbit_page_meta
