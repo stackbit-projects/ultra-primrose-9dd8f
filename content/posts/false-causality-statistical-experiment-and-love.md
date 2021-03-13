@@ -14,7 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 subtitle: >-
-  I'm not an expert in love, but I hope my writing can give enlightment about
+  I'm not an expert in love, but I hope my writing can give an enlightment about
   love and most importantly, False Causality.
 ---
 ## Lorem ipsum
