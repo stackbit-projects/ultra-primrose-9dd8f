@@ -51,3 +51,13 @@ To make things easier to remember, I will call Shinya(the male MC) as **James** 
 
 The first way they try to prove their love is by measuring their heart-rat. 
 The hypothesis is “My heartbeat will increase when I’m standing near someone I love”. Now I will create the causal graph from that statement. A causal graph is a graph where the vertex(the circle) represents an event and the edge(the arrow) represents which event will cause another event to happen. Let assume the causal graph like this :
+
+{{<rawhtml>}}
+<div align="center">
+    <img src="
+https://ik.imagekit.io/pwhcix71iqy/Screen_Shot_2021-03-13_at_15.55.16_uihuKnSkf.png" width="70%"> </img>
+</div>
+<div align="center">
+<cite>Here are our main characters who have feelings for each other <</cite>
+</div>
+{{</rawhtml >}}
