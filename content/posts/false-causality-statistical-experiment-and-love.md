@@ -72,7 +72,7 @@ Using **experimental data** is much preferable since we can minimize any unwante
 Here’s the experiment setup :
 1. James will measure his heart-rate alone as the **control group**
 2. After that, James will measure his heart-rate when he’s standing near Mary as the **experimental group**
-3. From 2 heart-rate dataset, do a t-test and search for evidence if his heart-rate is higher when he’s standing near Mary
+3. From 2 heart rate dataset, do a t-test and search for evidence if his heart rate is higher when he’s standing near Mary
 
 From the experiment, it turns out that James’ heart-rate does increase when he stands near Mary. Does it mean his love proved? NO
 
