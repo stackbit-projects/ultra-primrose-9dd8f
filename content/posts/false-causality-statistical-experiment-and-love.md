@@ -80,3 +80,13 @@ It turns out that James’ heart-rate will increase when he is standing near any
 # The 2nd experiment
 Because of the first mistake, let’s rewrite the causal graph
 
+{{<rawhtml>}}
+<div align="center">
+    <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png" width="40%"> </img>
+</div>
+<br>
+<div align="center">
+<cite>This graph represents 2 events where the event of the left will causes(hyphotetically) the right event<</cite>
+</div>
+<br>
+{{</rawhtml >}}
