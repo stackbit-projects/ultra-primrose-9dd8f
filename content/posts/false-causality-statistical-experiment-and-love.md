@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: False Causality - Statistical Experiment and Love
 subtitle: lorem-ipsum
 date: '2021-03-13'
 thumb_img_alt: lorem-ipsum
