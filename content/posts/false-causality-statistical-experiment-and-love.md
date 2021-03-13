@@ -18,4 +18,4 @@ excerpt: >-
   People tends to forget about existence of a third variable when concluding
   causality between two events.
 ---
-<cite></cite>
+<cite>Foto oleh Daria Shevtsova dari Pexels</cite>
