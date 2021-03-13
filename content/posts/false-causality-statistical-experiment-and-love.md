@@ -3,7 +3,6 @@ title: False Causality - Statistical Experiment and Love
 date: '2021-03-13'
 content_img_alt: >-
   https://ik.imagekit.io/pwhcix71iqy/false_-_causality_-_Statistical_Fallacirs__1__-vtzzfm4x.png
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
