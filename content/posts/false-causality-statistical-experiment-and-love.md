@@ -86,7 +86,7 @@ Because of the first mistake, let’s rewrite the causal graph
 </div>
 <br>
 <div align="center">
-<cite>We introduce new variables </cite>
+<cite>We introduce new variable</cite>
 </div>
 <br>
 {{</rawhtml >}}
