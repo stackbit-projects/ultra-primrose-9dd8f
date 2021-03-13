@@ -17,6 +17,7 @@ subtitle: >-
   I'm not an expert in love, but I hope my writing can give an enlightment about
   love and most importantly, False Causality.
 thumb_img_path: images/intro.jpg
+content_img_path: images/important-pineapple.jpg
 ---
 ## Lorem ipsum
 
