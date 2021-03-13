@@ -105,7 +105,7 @@ Does that mean Mary is not the root cause of James increasing heart-beat? We don
 <cite>modified quotes from facebook</cite>
 
 They need to design a better experiment, to get rid of the compounding effect. Here’s the setup :
-James will measure his heart-rate when he’s standing near a beautiful girl(not Mary) as the control group
-After that, James will measure his heart-rate when he’s standing near Mary as the experimental group
+1. James will measure his heart-rate when he’s standing near a beautiful girl(not Mary) as the **control group**
+2. After that, James will measure his heart-rate when he’s standing near Mary as the experimental group
 From 2 heart-rate dataset, do t-test and search for evidence if his heart-rate is higher when he’s standing near Mary
 And the result? Read the manga if you want to know :p
