@@ -103,3 +103,5 @@ Does that mean Mary is not the root cause of James increasing heart-beat? We don
 
 > “Rejecting hypothesis because there are no sufficient evidence is like taking a spoonful of water from an ocean and saying, there is no shark in the ocean because there is none in my spoon”
 <cite>modified quotes from facebook</cite>
+
+They need to design a better experiment, to get rid of the compounding effect. Here’s the setup :
