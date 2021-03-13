@@ -112,6 +112,7 @@ They need to design a better experiment, to get rid of the compounding effect. H
 1. James will measure his heart rate when he’s standing near a beautiful girl(not Mary) as the **control group**
 2. After that, James will measure his heart rate when he’s standing near Mary as the **experimental group**
 3. From 2 heart rate measurements, do t-test and search for evidence if his heart rate is higher when he’s standing near Mary  
+
 The result? Read the manga if you want to know :p
 
 # Summary
