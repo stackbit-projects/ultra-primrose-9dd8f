@@ -57,6 +57,6 @@ The hypothesis is “My heartbeat will increase when I’m standing near someone
     <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png" width="40%"> </img>
 </div>
 <div align="center">
-<cite>This graph represents 2 events, which are “standing with the loved one” and “increasing heartbeat”. The arrow show that the left event will cause(still hyphotesis) the right event<</cite>
+<cite>This graph represents 2 events where the event of the left will cause<</cite>
 </div>
 {{</rawhtml >}}
