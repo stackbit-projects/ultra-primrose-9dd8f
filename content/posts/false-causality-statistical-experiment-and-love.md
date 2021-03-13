@@ -22,6 +22,7 @@ excerpt: >-
 
 #Brief intro to Statistical Fallacies
 So, what are Statistical Fallacies?
-> "Misuse of Statistics: Using numbers in such a manner that – either by intent or through ignorance or carelessness – the conclusions are unjustified or incorrect.  -Spirer, Spirer & Jaffe 1998, p. 1.
+> "Misuse of Statistics: Using numbers in such a manner that – either by intent or through ignorance or carelessness – the conclusions are unjustified or incorrect.  
+<cite>Spirer, Spirer & Jaffe 1998, p. 1.</cite>
 
 So data can be easily manipulated or misunderstood to tell a different story from the truth. This post will tackle one of the most common forms of Statistical Fallacies, with the name “False Causality”
