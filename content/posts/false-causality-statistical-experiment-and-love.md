@@ -98,4 +98,5 @@ It turns out that the actual cause of the increasing heartbeat is to be together
 **Confounding variable** is a variable that will affect two events together and cause false association between the two events.
 
 In the manga, there are only 1 woman with James, so being with Mary = being with a beautiful woman.
+
 Does that mean Mary is not the root cause of James increasing heart-beat? We don’t know since we don’t have sufficient evidence to reject that hypothesis.
