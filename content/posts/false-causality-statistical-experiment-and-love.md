@@ -2,8 +2,8 @@
 title: False Causality - Statistical Experiment and Love
 subtitle: lorem-ipsum
 date: '2021-03-13'
-thumb_img_alt: lorem-ipsum
-content_img_alt: lorem-ipsum
+thumb_img_alt: lhttps://ik.imagekit.io/pwhcix71iqy/false_-_causality_-_Statistical_Fallacirs__1__-vtzzfm4x.png
+content_img_alt: https://ik.imagekit.io/pwhcix71iqy/false_-_causality_-_Statistical_Fallacirs__1__-vtzzfm4x.png
 excerpt: lorem-ipsum
 seo:
   title: ''
