@@ -16,6 +16,7 @@ layout: post
 subtitle: >-
   I'm not an expert in love, but I hope my writing can give an enlightment about
   love and most importantly, False Causality.
+thumb_img_path: images/intro.jpg
 ---
 ## Lorem ipsum
 
