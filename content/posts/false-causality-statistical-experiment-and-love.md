@@ -109,3 +109,7 @@ They need to design a better experiment, to get rid of the compounding effect. H
 2. After that, James will measure his heart-rate when he’s standing near Mary as the **experimental group**
 3. From 2 heart-rate dataset, do t-test and search for evidence if his heart-rate is higher when he’s standing near Mary
 And the result? Read the manga if you want to know :p
+
+# Summary
+There are tons of false causality being deduced even among scientists. One way to avoid it is to design a proper Experiment, where the control group and experimental group differ ONLY by the treatment, not by other undetected factors like a compounding variable.
+Running inferential statistics such as t-test on observational data would be improper to conclude a causality between events because there are many factors outside our recognition.
