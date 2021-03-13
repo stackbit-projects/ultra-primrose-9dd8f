@@ -51,7 +51,7 @@ To make things easier to remember, I will call Shinya(the male MC) as **James** 
 # The first experiment
 
 The first way they try to prove their love is by measuring their heart rate. 
-The hypothesis is “My heart rate will increase when I’m standing near someone I love”. Now I will create the **causal graph** from that statement. A causal graph is a graph where the vertex(the circle) represents an event and the edge(the arrow) represents which event will cause another event to happen. Let assume the causal graph like this :
+The hypothesis is “My heart rate will increase when I’m standing near someone I love”. Now I will create the **causal graph** from that statement. A **causal graph is a graph where the vertex(the circle) represents an event and the edge(the arrow) represents which event will cause another event to happen. Let assume the causal graph like this :
 
 {{<rawhtml>}}
 <div align="center">
