@@ -2,8 +2,8 @@
 <html lang="en">
     <head>    
         {{ if .Site.Params.GoogleAnalyticsID }}
-  {{ partial "analytics-gtag.html" . }}
-  {{ end }}
+        {{ partial "analytics-gtag.html" . }}
+        {{ end }}
 
         <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Title }}{{ end }}</title>
         <meta charset="utf-8">
