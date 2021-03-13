@@ -13,7 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: I'm not a expert in love
+subtitle: 'I''m not an expert in love, but I hope my writing '
 ---
 ## Lorem ipsum
 
