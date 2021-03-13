@@ -98,9 +98,9 @@ Because of the first mistake, let’s rewrite the causal graph like this :
 It turns out that the actual cause of the increasing heartbeat is to be together with a beautiful woman. That means the previous study resulted in **False causality**.
 **False causality** is one of the Statistical-fallacies, where a study concludes the wrong root cause of an event. One of the reasons this could happen is the existence of **confounding variable**.
 
-**Confounding variable** is a variable that will affect two events together and cause false association between the two events.
+A **Confounding variable** is a variable that will affect two events together and cause false association between the two events.
 
-In the manga, there are only 1 woman with James, so together with Mary = together with a beautiful woman.
+In the manga, there is only 1 woman with James, so together with Mary = together with a beautiful woman.
 
 Does that mean Mary is not the root cause of James increasing heart rate? We don’t know since we don’t have sufficient evidence to reject that hypothesis.
 
