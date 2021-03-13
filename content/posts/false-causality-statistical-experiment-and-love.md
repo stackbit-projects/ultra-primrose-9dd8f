@@ -39,6 +39,7 @@ https://ik.imagekit.io/pwhcix71iqy/Screen_Shot_2021-03-13_at_15.55.16_uihuKnSkf.
 <div align="center">
 <cite>Here are our main characters who have feelings for each other <</cite>
 </div>
+<br>
 {{</rawhtml >}}
 
 Hey hey hey, don't get me wrong. I'm not doing manga reviews on my blog, but I want to share what I learned from this manga.
