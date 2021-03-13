@@ -67,7 +67,7 @@ The hypothesis is “My heart rate will increase when I’m standing near someon
 For this experiment, they need a method to gather the **experimental data**.   
 **Experimental data** is data where we assign people or things to groups and apply some treatment to one of the groups, while the other group does not receive the treatment. Observational data is data where we measure the sample without trying to affect them.  
 
-Using Experimental data is much preferable since we can minimize any unwanted distraction, but it needs a lot of energy and time to gather.
+Using Experimental data** is much preferable since we can minimize any unwanted distraction, but it needs a lot of energy and time to gather.
 
 Here’s the experiment setup :
 1. James will measure his heart-rate alone as the **control group**
