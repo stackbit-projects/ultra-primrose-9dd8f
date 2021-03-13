@@ -60,6 +60,7 @@ The hypothesis is “My heartbeat will increase when I’m standing near someone
 <div align="center">
 <cite>This graph represents 2 events where the event of the left will causes(hyphotetically) the right event<</cite>
 </div>
+<br>
 {{</rawhtml >}}
 
 For this experiment, they need a method to gather the **experimental data**.   
