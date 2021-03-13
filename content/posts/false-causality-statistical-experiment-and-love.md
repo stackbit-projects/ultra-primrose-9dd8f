@@ -101,4 +101,5 @@ In the manga, there are only 1 woman with James, so being with Mary = being with
 
 Does that mean Mary is not the root cause of James increasing heart-beat? We don’t know since we don’t have sufficient evidence to reject that hypothesis.
 
-> “Rejecting hypothesis because there are no sufficient evidence is like taking a spoonful of water from an ocean and saying, there is no shark in the ocean because there is none in my spoon”-modified quotes from facebook
+> “Rejecting hypothesis because there are no sufficient evidence is like taking a spoonful of water from an ocean and saying, there is no shark in the ocean because there is none in my spoon”
+<cite>modified quotes from facebook<\cite>
