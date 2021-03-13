@@ -31,13 +31,10 @@ So data can be easily manipulated or misunderstood to tell a different story fro
 # Background
 As an avid manga(Japanese comics) reader, I stumble in 1 book that introduces me to the world of statistical experimentation. No, I'm not talking about Manga Guide to Statistics, I'm talking about "Science Fell in Love, So I Tried to Prove It"
 
-![]()
-<cite> Here are our main characters who have feelings for each other </cite>
-
 {{<rawhtml>}}
 <div align="center">
     <img src="
-https://ik.imagekit.io/pwhcix71iqy/image_NGCmxZwbp.png" width="30%"> </img>
+https://ik.imagekit.io/pwhcix71iqy/Screen_Shot_2021-03-13_at_15.55.16_uihuKnSkf.png" width="30%"> </img>
 </div>
 <div align="center">
 <cite>log in here is natural logarithmic</cite>
