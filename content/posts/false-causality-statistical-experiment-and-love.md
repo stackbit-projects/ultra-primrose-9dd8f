@@ -95,10 +95,9 @@ Because of the first mistake, let’s rewrite the causal graph like this :
 <br>
 {{</rawhtml >}}
 
-It turns out that the actual cause of the increasing heartbeat is to be together with a beautiful woman. That means the previous study resulted in **False causality**.
-**False causality** is one of the Statistical-fallacies, where a study concludes the wrong root cause of an event. One of the reasons this could happen is the existence of **confounding variable**.
+It turns out that the actual cause of the increasing heartbeat is to be together with a beautiful woman. That means the previous study resulted in **False causality**.  
 
-A **Confounding variable** is a variable that will affect two events together and cause false association between the two events.
+**False causality** is one of the Statistical-fallacies, where a study concludes the wrong root cause of an event. One of the reasons this could happen is the existence of **confounding variable**. A **Confounding variable** is a variable that will affect two events together and cause false association between the two events.
 
 In the manga, there is only 1 woman with James, so together with Mary = together with a beautiful woman.
 
@@ -116,4 +115,5 @@ The result? Read the manga if you want to know :p
 
 # Summary
 There are tons of **false causality** being deduced even among scientists. One way to avoid it is to design a **proper experiment**, where the **control group** and **experimental group** differ ONLY by the treatment, not by other undetected factors like a **confounding variable**.
+Running inferential statistics such as t-test on **observational data** would be improper to conclude a causality between events because there are many factors outside our scope.
 Running inferential statistics such as t-test on **observational data** would be improper to conclude a causality between events because there are many factors outside our scope.
