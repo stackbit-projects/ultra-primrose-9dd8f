@@ -45,7 +45,7 @@ https://ik.imagekit.io/pwhcix71iqy/Screen_Shot_2021-03-13_at_15.55.16_uihuKnSkf.
 Hey hey hey, don't get me wrong. I'm not doing manga reviews on my blog, but I want to share what I learned from this manga.
 
 # So What’s the story?
-This is a story about two post-graduate researchers, Shinya and Himuro, who fell in love with each other. With their scientific-pride, they tried to gather evidence to prove their love.
+This is a story about two post-graduate researchers, Shinya and Himuro, who fell in love with each other. With their scientific-pride, they tried to gather evidences to prove their love.
 To make things easier to remember, I will call Shinya(the male MC) as **James** and Himuro(the female MC) as **Mary**
 
 # The first experiment
