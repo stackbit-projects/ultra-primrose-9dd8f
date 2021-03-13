@@ -61,3 +61,6 @@ The hypothesis is “My heartbeat will increase when I’m standing near someone
 <cite>This graph represents 2 events where the event of the left will causes(hyphotetically) the right event<</cite>
 </div>
 {{</rawhtml >}}
+
+For this experiment, they need a method to gather the experimental data. 
+Experimental data is data where we assign people or things to groups and apply some treatment to one of the groups, while the other group does not receive the treatment. Observational data is data where we measure the sample without trying to affect them. 
