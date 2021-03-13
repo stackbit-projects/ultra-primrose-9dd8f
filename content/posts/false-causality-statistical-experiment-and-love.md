@@ -112,4 +112,4 @@ And the result? Read the manga if you want to know :p
 
 # Summary
 There are tons of **false causality** being deduced even among scientists. One way to avoid it is to design a **proper Experiment**, where the **control group** and **experimental group** differ ONLY by the treatment, not by other undetected factors like a **confounding variable**.
-Running inferential statistics such as t-test on observational data would be improper to conclude a causality between events because there are many factors outside our recognition.
+Running inferential statistics such as t-test on **observational data** would be improper to conclude a causality between events because there are many factors outside our scope.
