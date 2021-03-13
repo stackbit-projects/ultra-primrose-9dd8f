@@ -86,7 +86,7 @@ Because of the first mistake, let’s rewrite the causal graph
 </div>
 <br>
 <div align="center">
-<cite>This graph represents 2 events where the event of the left will causes(hyphotetically) the right event<</cite>
+<cite>We introduce new variables</cite>
 </div>
 <br>
 {{</rawhtml >}}
