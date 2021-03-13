@@ -58,7 +58,7 @@ The hypothesis is “My heart rate will increase when I’m standing near someon
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png" width="40%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png" width="60%"> </img>
 </div>
 <br>
 <div align="center">
