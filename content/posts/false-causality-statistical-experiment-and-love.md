@@ -57,6 +57,6 @@ The hypothesis is “My heartbeat will increase when I’m standing near someone
     <img src="https://ik.imagekit.io/pwhcix71iqy/causal-graph1_SdbS2lTnP.png" width="70%"> </img>
 </div>
 <div align="center">
-<cite>Here are our main characters who have feelings for each other <</cite>
+<cite>This graph represents 2 events, which are “standing with the loved one” and “increasing heartbeat”. The arrow show that standing with the loved one will cause increasing heartbeat<</cite>
 </div>
 {{</rawhtml >}}
