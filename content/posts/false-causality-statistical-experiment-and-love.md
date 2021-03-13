@@ -86,7 +86,7 @@ Because of the first mistake, let’s rewrite the causal graph like this :
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/casual-graph2_x0jJ_hrFVzi.png" width="40%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/casual-graph2_x0jJ_hrFVzi.png" width="60%"> </img>
 </div>
 <br>
 <div align="center">
