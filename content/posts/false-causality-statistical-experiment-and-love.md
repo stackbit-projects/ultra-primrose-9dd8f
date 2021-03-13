@@ -47,7 +47,7 @@ Hey hey hey, don't get me wrong. I'm not doing manga reviews on my blog, but I w
 This is a story about two post-graduate researchers, Shinya and Himuro, who fell in love with each other. With their scientific-pride, they tried to gather evidence to prove their love.
 To make things easier to remember, I will call Shinya(the male MC) as **James** and Himuro(the female MC) as **Mary**
 
-# The 1st experiment
+# The first experiment
 
 The first way they try to prove their love is by measuring their heart-rat. 
 The hypothesis is “My heartbeat will increase when I’m standing near someone I love”. Now I will create the causal graph from that statement. A causal graph is a graph where the vertex(the circle) represents an event and the edge(the arrow) represents which event will cause another event to happen. Let assume the causal graph like this :
