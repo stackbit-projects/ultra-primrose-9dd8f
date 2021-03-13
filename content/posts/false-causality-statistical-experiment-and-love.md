@@ -37,6 +37,6 @@ As an avid manga(Japanese comics) reader, I stumble in 1 book that introduces me
 https://ik.imagekit.io/pwhcix71iqy/Screen_Shot_2021-03-13_at_15.55.16_uihuKnSkf.png" width="30%"> </img>
 </div>
 <div align="center">
-<cite>log in here is natural logarithmic</cite>
+<cite>Here are our main characters who have feelings for each other <</cite>
 </div>
 {{</rawhtml >}}
