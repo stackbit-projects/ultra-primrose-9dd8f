@@ -1,7 +1,7 @@
 title: Vinson's website
 baseURL: /
 params:
-googleAnalyticsID = "G-00000XXXXX"
+  googleAnalyticsID = "G-00000XXXXX"
   layout_style: overflow
   palette: green
   header:
