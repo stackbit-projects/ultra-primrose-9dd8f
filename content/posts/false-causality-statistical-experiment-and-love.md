@@ -19,7 +19,7 @@ content_img_path: >-
   https://ik.imagekit.io/pwhcix71iqy/false_-_causality_-_Statistical_Fallacirs__1__-vtzzfm4x.png
 thumb_img_alt: a
 excerpt: >-
-  People tend to forget about existence of a confounding variable when concluding causality between events. Wait, what is confounding variable? And what
+  People tend to forget about existence of a confounding variable when concluding causality between events. Wait, what is confounding variable?
 ---
 <cite>Original photo by [Daria Shevtsova](https://www.pexels.com/id-id/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/id-id/foto/wanita-dengan-kemeja-flanel-bergaris-biru-memegang-buku-di-dalam-ruangan-698928/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) </cite>
 
