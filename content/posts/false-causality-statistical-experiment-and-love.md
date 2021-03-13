@@ -69,7 +69,7 @@ Experimental data is data where we assign people or things to groups and apply s
 Using Experimental data is much preferable since we can minimize any unwanted distraction, but it needs a lot of energy and time to gather.
 
 Here’s the experiment setup :
-James will measure his heart-rate alone as the control group
-After that, James will measure his heart-rate when he’s standing near Mary as the experimental group
-From 2 heart-rate dataset, do a t-test and search for evidence if his heart-rate is higher when he’s standing near Mary
+1. James will measure his heart-rate alone as the control group
+2. After that, James will measure his heart-rate when he’s standing near Mary as the experimental group
+3. From 2 heart-rate dataset, do a t-test and search for evidence if his heart-rate is higher when he’s standing near Mary
 
