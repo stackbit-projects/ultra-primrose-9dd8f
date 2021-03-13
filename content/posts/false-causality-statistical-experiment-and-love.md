@@ -16,7 +16,9 @@ subtitle: >-
 thumb_img_path: images/intro.jpg
 content_img_path: images/important-pineapple.jpg
 thumb_img_alt: a
-excerpt: People tends to forget about third
+excerpt: >-
+  People tends to forget about existence of a third variable when concludig
+  causality between two events.
 ---
 ## Lorem ipsum
 
