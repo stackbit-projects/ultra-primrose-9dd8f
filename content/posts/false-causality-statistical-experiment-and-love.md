@@ -27,3 +27,7 @@ So, what are Statistical Fallacies?
 <cite>Spirer, Spirer & Jaffe 1998, p. 1.</cite>
 
 So data can be easily manipulated or misunderstood to tell a different story from the truth. This post will tackle one of the most common forms of Statistical Fallacies, with the name **False Causality**
+
+# Case introduction
+As an avid manga(Japanese comics) reader, I stumble in 1 book that introduces me to the world of statistical experimentation. No, I'm not talking about Manga Guide to Statistics, I'm talking about "Science Fell in Love, So I Tried to Prove It"
+
