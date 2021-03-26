@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Data Science with Julia - Quick Glance
 subtitle: lorem-ipsum
 date: '2021-03-26'
 thumb_img_alt: lorem-ipsum
