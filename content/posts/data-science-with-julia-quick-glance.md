@@ -116,7 +116,7 @@ drop_column = ["PassengerId","Name","Ticket"]
 df = df[:,Not(drop_column)] #Remove the defined columns
 first(df,5)
 ```
-![](https://ik.imagekit.io/pwhcix71iqy/Julia/clean_data_1BaLn3i-uS)
+
 
 {{<rawhtml>}}
 <div align="center">
