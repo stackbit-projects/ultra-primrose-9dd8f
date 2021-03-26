@@ -4,8 +4,8 @@ subtitle: lorem-ipsum
 date: '2021-03-26'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-thumb_img_path : https://ik.imagekit.io/pwhcix71iqy/Julia/julia__1__zCuDq49G1.jpg
-content_img_path : https://ik.imagekit.io/pwhcix71iqy/Julia/julia__1__zCuDq49G1.jpg
+thumb_img_path : https://ik.imagekit.io/pwhcix71iqy/Julia/julia__1__PoOCfJW27.png
+content_img_path : https://ik.imagekit.io/pwhcix71iqy/Julia/julia__1__PoOCfJW27.png
 excerpt: >-
   Julia’s hype as the next programming language of Data Science is always rising
   each year. What does doing Data Science in Julia look like?
