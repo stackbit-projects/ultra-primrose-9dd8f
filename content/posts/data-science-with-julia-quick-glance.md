@@ -17,7 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-<cite>Original photo by Alan Cabello from Pexels</cite>
+<cite>Original photo by [Alan Cabello](https://www.pexels.com/id-id/@alancabello?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels</cite>
 
 I heard some hype regarding Julia programming language lately. Julia is a programming language developed in MIT and some people said that Julia [runs like C, but reads like Python](https://www.nature.com/articles/d41586-019-02310-3)
 
