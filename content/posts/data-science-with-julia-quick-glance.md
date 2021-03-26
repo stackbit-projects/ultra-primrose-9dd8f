@@ -121,6 +121,7 @@ Now the data looks good, let's proceed to create a machine learning model.
 ![](https://ik.imagekit.io/pwhcix71iqy/Julia/clean_data_1BaLn3i-uS)
 
 # Machine Learning
+
 Since there are tons of machine learning libraries in Julia,  [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) attempts to create a unified interface to all of those packages, just like R's Caret and PyCaret.
 Here's the data preparation part for MLJ :
 ```Julia
