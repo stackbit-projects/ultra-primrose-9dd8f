@@ -39,6 +39,7 @@ So what’s the difference? Using the first way will let you code Julia inside J
 The second way will give you Juno IDE that similar to RStudio, Spyder, or Matlab. Juno is basically an extension from Atom design specifically for Julia.
 ![b](https://ik.imagekit.io/pwhcix71iqy/Julia/Screen_Shot_2021-03-20_at_10.44.46_DMWKP1W7E.png)
 <cite>Juno give tons of features compared to Jupyter</cite>
+
 I don't know which one is more popular, but for a serious project, I will go to JunoIDE(There are rumor that Juno team are migrating into VS Code)
 
 # Package / library
