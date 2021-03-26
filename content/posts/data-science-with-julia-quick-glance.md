@@ -6,7 +6,7 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: >-
   Julia is keep raising its hype as the next programming language of Data
-  Science, 
+  Science, What does doing Data Science in Julia look like?
 seo:
   title: ''
   description: ''
