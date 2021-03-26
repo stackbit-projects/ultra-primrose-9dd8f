@@ -1,6 +1,6 @@
 ---
 title: Data Science with Julia - Quick Glance
-subtitle: Something's rising and it isn't the shield hero, i
+subtitle: Something's rising and it isn't the shield hero, but the Julia programming language!
 date: '2021-03-26'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
