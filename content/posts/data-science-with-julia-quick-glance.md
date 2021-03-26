@@ -5,8 +5,8 @@ date: '2021-03-26'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: >-
-  Julia is keep raising its hype as the next programming language of Data
-  Science, What does doing Data Science in Julia look like?
+  Julia’s hype as the next programming language of Data Science is always rising
+  each year. What does doing Data Science in Julia look like?
 seo:
   title: ''
   description: ''
