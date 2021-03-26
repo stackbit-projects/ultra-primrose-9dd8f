@@ -4,7 +4,9 @@ subtitle: lorem-ipsum
 date: '2021-03-26'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: 'Julia '
+excerpt: >-
+  Julia is keep raising its hype as the next programming language of Data
+  Science, So
 seo:
   title: ''
   description: ''
