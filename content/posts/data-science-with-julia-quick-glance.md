@@ -64,7 +64,7 @@ first(df,5) # Print the first 5 rows
 ```
 ![c](https://ik.imagekit.io/pwhcix71iqy/Julia/describe_tpw7Sd9bt)
 Notice that :
-- that Julia ** starts indexing from 1** instead of 0.
+- that Julia **starts indexing from 1** instead of 0.
 - DataFrame will show data types below the column name, where ? in dtype implies existence of missing value in that column
 - Missing value will be denoted as *missing*
 ```Julia
