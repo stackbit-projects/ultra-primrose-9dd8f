@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-03-26'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-thumb_img_path : https://ik.imagekit.io/pwhcix71iqy/Julia/julia__1__PoOCfJW27.png
+thumb_img_path : https://ik.imagekit.io/pwhcix71iqy/Julia/julia_qm3BXaM8A.jpg
 content_img_path : https://ik.imagekit.io/pwhcix71iqy/Julia/julia_qm3BXaM8A.jpg
 excerpt: >-
   Julia’s hype as the next programming language of Data Science is always rising
