@@ -122,6 +122,7 @@ first(df,5)
     <img src="https://ik.imagekit.io/pwhcix71iqy/Julia/clean_data_1BaLn3i-uS" width="60%"> </img>
 </div>
 <br>
+{{</rawhtml >}}
 
 
 Now the data looks good, let's proceed to create a machine learning model.
