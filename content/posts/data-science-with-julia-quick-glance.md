@@ -6,7 +6,7 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: >-
   Julia is keep raising its hype as the next programming language of Data
-  Science, So
+  Science, 
 seo:
   title: ''
   description: ''
