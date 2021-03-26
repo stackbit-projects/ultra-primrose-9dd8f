@@ -58,7 +58,7 @@ using Statistics
 ```
 
 # Data Reading
-Currently, reading a CSV into a dataframe is 2 step process.
+Currently, reading a csv file into a dataframe is 2 step process.
 ```Julia
 using CSV ,DataFrames # Import multiple libraries
 csv_file = CSV.File(download("https://gist.githubusercontent.com/michhar/2dfd2de0d4f8727f873422c5d959fff5/raw/fa71405126017e6a37bea592440b4bee94bf7b9e/titanic.csv")) # Read the data, use download() if the data from internet
