@@ -202,7 +202,8 @@ model_params = Flux.params(model_nn)
 Learning a new language can be either a wonderful journey or a traumatic experience(lol). 
 For now, I will keep my eye on Julia’s development, waiting for it to reach some degree of maturity.
 
-Last but not least, here's a list of my thoughts : 
+Last but not least, here's a list of my thoughts
+
 Positive :
 - Julia is like the combination of multiple programming language and paradigm, which make Julia a really 'expressive' language to write
 - Having a single package manager and environment management is pretty convenient.
