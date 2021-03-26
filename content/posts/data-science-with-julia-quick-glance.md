@@ -120,7 +120,7 @@ first(df,5)
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/Julia/clean_data_1BaLn3i-uS" width="50%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/Julia/clean_data_1BaLn3i-uS" width="70%"> </img>
 </div>
 <br>
 
