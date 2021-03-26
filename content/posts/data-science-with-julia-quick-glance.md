@@ -140,7 +140,7 @@ train, test = partition(eachindex(y), 0.7, shuffle=true)
 ```
 The first thing is we need to coerce all the variables into 4 possible types(Continuous, Count, Multiclass, and OrderedFactor), after that we split the predictor and the response and split the **index** of the train and the test data.
 
-```
+```Julia
 Tree = @load DecisionTreeClassifier pkg=DecisionTree # Load the Decision tree classifier from the DecisionTree library as Tree
 classifier= Tree() # Define the model
 mach = machine(classifier, X, y) # Machine store the state of the model
