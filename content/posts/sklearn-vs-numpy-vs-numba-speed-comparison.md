@@ -9,6 +9,7 @@ excerpt: >-
   better with Numba, or even Numpy ?
 tags : 
     - Python
+    - Programming
 seo:
   title: ''
   description: ''
