@@ -16,6 +16,8 @@ seo:
 layout: post
 thumb_img_path: images/pexels-polina-tankilevitch-4109048 (1).jpg
 content_img_path: images/pexels-polina-tankilevitch-4109048 (1).jpg
+tags :
+  - Python
 ---
 Original photo by [**Polina Tankilevitch**](https://www.pexels.com/@polina-tankilevitch?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/food-woman-winter-fun-4109048/?utm_content=attributionCopyText\&utm_medium=referral\&utm_source=pexels)
 
