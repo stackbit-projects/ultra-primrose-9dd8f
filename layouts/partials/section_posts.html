@@ -22,13 +22,14 @@
             <p>{{ $post.Params.excerpt }}</p>
           </div>
           {{ end }}
+          {{ partial "colortags" . }}
 
-          {{ if $post.Params.tags }}
+          <!-- {{ if $post.Params.tags }}
           <div class="post-content">
             <p>Tags : {{ $post.Params.tags }}</p>
             {{ range $post.Params.tags }}{{.}}{{ end }}
           </div>
-          {{ end }}
+          {{ end }} -->
 
           <footer class="post-meta">
             <time class="published"
