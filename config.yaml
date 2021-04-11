@@ -5,10 +5,11 @@ params:
   layout_style: overflow
   palette: green
   color: 
-    python : #306998
-    Math-Statistics : #c90e0e
+    Python : #306998
     Julia : #9558B2
-    
+    Math-Statistics : #c90e0e
+    Optimization : 
+
   header:
     title: Vinson Ciawandy
     tagline: Data Science | Analytics | Mathematics
