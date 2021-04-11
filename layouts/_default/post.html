@@ -6,7 +6,7 @@
       {{ if .Params.subtitle }}
       <ul id="tags">
         {{ range .Params.tags }}
-            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">Tags : {{ . }}</a> 
+            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">Tags : {{ . }}</a> 
         {{ end }}
         </ul>
       <div class="post-subtitle">
