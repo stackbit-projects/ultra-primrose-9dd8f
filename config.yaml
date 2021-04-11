@@ -6,7 +6,7 @@ params:
   palette: green
   color: 
     Python : #306998
-    Julia : #9558B2
+    Julia : "#9558B2"
     Statistics : "#c90e0e"
     Optimization : "#3ddbce"
   header:
