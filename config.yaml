@@ -7,7 +7,7 @@ params:
   color: 
     Python : #306998
     Julia : #9558B2
-    Math-Statistics : #c90e0e
+    Math_Statistics : #c90e0e
     Optimization : #3ddbce
 
   header:
