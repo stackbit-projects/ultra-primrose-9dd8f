@@ -20,6 +20,7 @@ excerpt: >-
 This post is a series of Statistical Fallacies series. Read other’s post about statistical fallacies : 
 - [False Causality - Statistical Experiment and Love](https://vinson2233.netlify.app/posts/false-causality-statistical-experiment-and-love/)
 
+
 # Background
 
 For me, there are 2 types of Exploratory Data Analysis(EDA), visual EDA and numeric EDA.  
