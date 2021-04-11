@@ -4,7 +4,7 @@ subtitle: Who I am ? What I am doing ?
 img_path: https://ik.imagekit.io/pwhcix71iqy/IMG_20191230_103442__1__f7q6pYBM9.jpg
 img_alt: Handsome man during vacation in Borobudur
 seo:
-  title: 'About me | Data Science, Analytics, Mathematics'
+  title: 'About me | Vinson2233 '
   description: >-
     Read topics about Data Science, AI, Machine Learning that rarely covered by
     other platforms.
