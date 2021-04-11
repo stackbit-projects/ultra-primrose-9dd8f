@@ -25,7 +25,7 @@ For me, there are 2 types of Exploratory Data Analysis(EDA), visual EDA and nume
 While visual EDA can generate a beautiful insight, it needs the analyst’s creativity to interpret what’s behind the picture, 
 Numeric EDA have set of defined interpretaion(example : positive skewness means data gathered in lower value) and it is easy to do logic automation based on numeric EDA.
 
-One pitfall of being too dependent only on numeric EDA is failing to grasp the meaning behind the data. In this post, I will explain a Statistical Fallacies called Danger of Summary Metrics, with feature selection on correlated variables as the study case.
+One pitfall of being too dependent only on numeric EDA is failing to grasp the meaning behind the data. In this post, I will explain a Statistical Fallacies called Danger of Summary Metrics, with feature selection on correlated variables as the study case.  
 I will assume the reader already familiar with correlation and PCA.
 
 # Feature Selection and Correlation
