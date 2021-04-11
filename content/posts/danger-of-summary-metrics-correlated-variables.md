@@ -13,7 +13,7 @@ seo:
 layout: post
 thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
-excerpt: 'So you want to remove '
+excerpt: 'So you want to do feature selection ? '
 ---
 ## Lorem ipsum
 
