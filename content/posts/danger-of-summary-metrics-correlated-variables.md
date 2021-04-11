@@ -65,7 +65,7 @@ Here’s the chart of previous data after transformed with PCA
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/summary-statistics-correlation/PCA-result_Yna36RGXL_x.png" width="60%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/summary-statistics-correlation/PCA-result_Yna36RGXL_x.png" width="80%"> </img>
 </div>
 <br>
 {{</rawhtml >}}
