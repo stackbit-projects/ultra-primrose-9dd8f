@@ -9,7 +9,6 @@ params:
     Julia : #9558B2
     Statistics : #c90e0e
     Optimization : #3ddbce
-
   header:
     title: Vinson Ciawandy
     tagline: Data Science | Analytics | Mathematics
