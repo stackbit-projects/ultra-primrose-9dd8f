@@ -14,8 +14,8 @@ layout: post
 thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
 excerpt: >-
-  "X1 and X2 have a super high correlation, let's drop one of them for our
-  modeling". Are really sure about that?
+  "X1 and X2 have a super high correlation, let's drop one of them for feature
+  selection". Are really sure about that?
 ---
 ## Lorem ipsum
 
