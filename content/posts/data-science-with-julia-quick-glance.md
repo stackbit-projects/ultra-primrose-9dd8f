@@ -16,6 +16,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+tags :
+  - Julia
 ---
 <cite>Original photo by [Alan Cabello](https://www.pexels.com/id-id/@alancabello?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/id-id/foto/tangan-diantara-daun-jeruk-1492364/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)</cite>
 
