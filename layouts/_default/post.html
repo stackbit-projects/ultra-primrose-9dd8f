@@ -21,8 +21,7 @@
       <time class="published"
         datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
     </footer>
-  </article><!-- .post -->
-  
+
 <div class="next-post">
     {{ if .NextPage }}
     Next post :
@@ -36,5 +35,9 @@
 	<a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
 	{{ end }}
 </div>
+
+  </article><!-- .post -->
+  
+
 
 {{ end }}
