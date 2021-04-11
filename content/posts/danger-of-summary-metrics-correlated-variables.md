@@ -15,7 +15,7 @@ thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
 excerpt: >-
   So you want a simple feature selection ? Find the correlated features and drop
-  them. 
+  them. Get stuck with the performance? Check some visualization
 ---
 ## Lorem ipsum
 
