@@ -20,19 +20,19 @@
     <footer class="post-meta inner-sm">
       <time class="published"
         datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
-<div class="next-post">
-    {{ if .NextPage }}
-    Next post :
-	<a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
-	{{ end }}
-</div>
+    <div class="next-post">
+        {{ if .NextPage }}
+        Next post :
+        <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+        {{ end }}
+    </div>
 
-<div class="previous-post">
-    {{ if .PrevPage }}
-    Previous post :
-	<a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
-	{{ end }}
-</div>
+    <div class="previous-post">
+        {{ if .PrevPage }}
+        Previous post :
+        <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+        {{ end }}
+    </div>
     </footer>
 
 
