@@ -4,6 +4,7 @@ params:
   googleAnalyticsID: G-4NGBF2S8VM
   layout_style: overflow
   palette: green
+  hugo: #306998
   header:
     title: Vinson Ciawandy
     tagline: Data Science | Analytics | Mathematics
