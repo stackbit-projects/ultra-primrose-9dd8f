@@ -16,7 +16,7 @@ params:
         url: /
         style: link
       - label: Search tags
-        url: '#'
+        url: /tags
         style: link
         icon_class: dev
         new_window: false
