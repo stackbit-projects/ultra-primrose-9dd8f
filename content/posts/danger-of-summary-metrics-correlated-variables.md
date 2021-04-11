@@ -48,7 +48,7 @@ Here’s an example of the condition I’m talking about :
 
 {{<rawhtml>}}
 <div align="center">
-    <img src="https://ik.imagekit.io/pwhcix71iqy/summary-statistics-correlation/Screen_Shot_2021-04-11_at_13.48.50_nhLcE9EZU.png" width="60%"> </img>
+    <img src="https://ik.imagekit.io/pwhcix71iqy/summary-statistics-correlation/Screen_Shot_2021-04-11_at_13.48.50_nhLcE9EZU.png" width="80%"> </img>
 </div>
 <br>
 {{</rawhtml >}}
