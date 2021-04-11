@@ -33,8 +33,8 @@ I will assume the reader already familiar with correlation and PCA.
 Feature selection can be crucial sometimes if we have too many unrelated features. 
 One type of popular feature selection is dropping highly correlated features, which is pretty simple, fast, and model-agnostic. I see some people love to use this technique, especially when building an automatic machine learning pipeline.
 
-For those who don’t know, here’s the gist of the techniques : 
-Calculate all correlation between the predictors
+For those who don’t know, here’s the gist of the techniques :  
+Calculate all correlation between the predictors  
 If there are a pair of predictors that have |correlation| > threshold, drop one of them
 
 Let's say X1 and X2 are variables with correlation = 0.95. That means whenever X1 increases, X2 will also increase, and whenever X2 decreases, X1 also decreases. Well, our X1 and X2 behave nearly identical to each other, maybe it is redundant to keep both of them in our data?
