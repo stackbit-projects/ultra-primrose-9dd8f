@@ -15,6 +15,13 @@ params:
       - label: Home
         url: /
         style: link
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
       - label: Posts
         url: /blog/
         style: link
@@ -24,13 +31,6 @@ params:
       - label: Contact
         url: /contact/
         style: link
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
     has_social: true
     social_links:
       - label: GitHub
