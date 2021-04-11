@@ -8,7 +8,7 @@
         Tags : 
         {{ range .Params.tags }}
             <!-- <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>  -->
-            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}
+           {{ . }}
         {{ end }}
         </ul>
       <div class="post-subtitle">
