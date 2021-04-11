@@ -24,10 +24,10 @@
   </article><!-- .post -->
   
   {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}">Previous Post</a>
-{{ end }}
-{{ if .NextInSection }}
-<a href="{{.NextInSection.Permalink}}">Next Post</a>
-{{ end }}
+    <a href="{{.PrevInSection.Permalink}}">Previous Post</a>
+    {{ end }}
+    {{ if .NextInSection }}
+    <a href="{{.NextInSection.Permalink}}">Next Post</a>
+    {{ end }}
 
 {{ end }}
