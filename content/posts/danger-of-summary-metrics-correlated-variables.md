@@ -13,7 +13,7 @@ seo:
 layout: post
 thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
-excerpt: 'Too focus on summary metrics '
+excerpt: Too focus on summary metrics can
 ---
 ## Lorem ipsum
 
