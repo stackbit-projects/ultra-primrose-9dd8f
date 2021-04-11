@@ -25,7 +25,6 @@
 
           {{ if $post.Params.tags }}
           <div class="post-content">
-            <p>Tags : {{ $post.Params.tags }}</p>
             {{ partial "colortags" . }}
             <!-- {{ range $post.Params.tags }}{{.}}{{ end }} -->
           </div>
