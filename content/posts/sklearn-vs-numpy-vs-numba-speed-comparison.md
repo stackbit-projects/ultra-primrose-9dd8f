@@ -8,6 +8,7 @@ excerpt: >-
   It turns out that Sklearn quite slow for several task, can we make things
   better with Numba, or even Numpy ?
 tags : 
+    - Python
 seo:
   title: ''
   description: ''
