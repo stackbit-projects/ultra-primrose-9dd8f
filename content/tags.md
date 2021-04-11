@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: Search
 subtitle: Thanks for clicking this page
 img_alt: lorem-ipsum
 seo:
