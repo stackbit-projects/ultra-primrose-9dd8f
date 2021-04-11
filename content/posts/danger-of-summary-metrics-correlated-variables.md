@@ -23,7 +23,7 @@ This post is a series of Statistical Fallacies series. Read other’s post about
 
 For me, there are 2 types of Exploratory Data Analysis(EDA), visual EDA and numeric EDA.  
 While visual EDA can generate a beautiful insight, it needs the analyst’s creativity to interpret what’s behind the picture, 
-Numeric EDA ishave set of defined interpretaion(example : positive skewness means data gathered in lower value) and it is easy to do things based on numeric EDA . 
+Numeric EDA is easly calculated accrosshave set of defined interpretaion(example : positive skewness means data gathered in lower value) and it is easy to do things based on numeric EDA . 
 
 One pitfall of being too dependent only on numeric EDA is failing to grasp the meaning behind the data. In this post, I will explain a Statistical Fallacies called Danger of Summary Metrics, with feature selection on correlated variables as the study case.
 I will assume the reader already familiar with correlation and PCA.
