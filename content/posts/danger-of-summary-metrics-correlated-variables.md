@@ -15,8 +15,8 @@ thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
 excerpt: >-
   It can be dangerous to understand your data solely based on summary metrics.
-  One mistakes that I often see is misinterpreting correlated variables with
-  correlation value. What?
+  One mistakes that I often see is misinterpreting correlated variables when
+  creating model. What?
 ---
 ## Lorem ipsum
 
