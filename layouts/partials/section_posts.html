@@ -26,7 +26,7 @@
           {{ if $post.Params.tags }}
           <div class="post-content">
             <p>Tags : {{ $post.Params.tags }}</p>
-            {{ range .Params.Image }}<img src="{{.}}">{{ end }}
+            {{ range .Params.tags }}<img src="{{.}}">{{ end }}
           </div>
           {{ end }}
 
