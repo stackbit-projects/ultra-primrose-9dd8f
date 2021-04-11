@@ -6,7 +6,8 @@ params:
   palette: green
   color: 
     python : #306998
-    Math-Statistics : 
+    Math-Statistics : #c90e0e
+    Julia : 
   header:
     title: Vinson Ciawandy
     tagline: Data Science | Analytics | Mathematics
