@@ -20,7 +20,7 @@ params:
       - label: Home
         url: /
         style: link
-      - label: Search tags
+      - label: tags
         url: /tags
         style: link
         icon_class: dev
