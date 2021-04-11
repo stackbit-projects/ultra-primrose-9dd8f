@@ -74,4 +74,6 @@ It looks like another simple linear classifier will make make a great job to cla
 Now if we drop the second component just because it has really tiny explainability, what would happen to the classification? 
 
 # Conclusion
+
+
  So, yeah. We have tons of awesome tools to analyze the data, but using it blindly can hurt the analysis. Numeric EDA which bases on the summary value gives a fast way to interpret the data, but visualization tends to give a bigger picture than just some number. 
