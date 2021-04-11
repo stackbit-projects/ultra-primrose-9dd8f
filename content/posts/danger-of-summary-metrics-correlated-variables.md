@@ -15,8 +15,7 @@ thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
 excerpt: >-
   It can be dangerous to understand your data solely based on summary metrics.
-  One mistakes that I often see is interpreting correlated variables without any
-  visualization. Maybe you're thinking
+  One mistakes that I often see is interpreting correlated variables only with 
 ---
 ## Lorem ipsum
 
