@@ -13,3 +13,5 @@ layout: page
 ## But sadly
 
 This feature is still under development :)
+
+There are only 6 post so far, so clicking
