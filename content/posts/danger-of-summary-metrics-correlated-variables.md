@@ -73,7 +73,7 @@ Here’s the chart of previous data after transformed with PCA
 The first component has explained the variance ratio
 0.99713768 and the second component have 0.00286232. Also, each component are orthogonal(just my fancy way to say the features are uncorrelated)
 It looks like another simple linear classifier will make make a great job to classify class A and B.  
-Now if we drop the second component just because it has really tiny explainability, what would happen to the classification? You guess it, it will be pretty difficult to create a good classifier.
+Now if we drop the second component just because it has really tiny explainability, what would happen to the classification? You guess it, it would be pretty difficult to create a good classifier.
 
 # Conclusion
 <cite> 
