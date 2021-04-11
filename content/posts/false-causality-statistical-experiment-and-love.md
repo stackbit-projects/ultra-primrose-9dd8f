@@ -22,7 +22,7 @@ excerpt: >-
   People tend to forget about existence of a confounding variable when concluding causality between events. Wait, what is confounding variable ?
 
 tags :
-  - Math_Statistics
+  - Statistics
 ---
 <cite>Original photo by [Daria Shevtsova](https://www.pexels.com/id-id/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/id-id/foto/wanita-dengan-kemeja-flanel-bergaris-biru-memegang-buku-di-dalam-ruangan-698928/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) </cite>
 
