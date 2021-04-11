@@ -1,5 +1,5 @@
 {{ range $tag := .Params.tags }}
-    {{ if eq $tag "hugo" }}
+    {{ if eq $tag "Python" }}
     <span class="Python" style="background-color: {{ $.Site.Params.hugo }};">{{ $tag }}</span>
     {{ else if eq $tag "gatsby" }}
     <span class="Math-Statistics" style="background-color: {{ $.Site.Params.gatsby }};">{{ $tag }}</span>
