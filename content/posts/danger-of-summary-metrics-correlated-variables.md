@@ -79,4 +79,4 @@ Now if we drop the second component just because it has really tiny explainabili
 <cite> 
 </cite>
 
- So..... yeah. We have tons of awesome tools to analyze the data, but using it blindly can hurt the analysis. Numeric EDA which bases on the summary value gives a fast way to interpret the data, but visualization tends to give a bigger picture than just some number. 
+ So..... yeah, we have tons of awesome tools to analyze the data, but using it blindly can hurt the analysis. Numeric EDA which bases on the summary value gives a fast way to interpret the data, but visualization tends to give a bigger picture than just some number. 
