@@ -49,7 +49,7 @@ Here’s an example of the condition I’m talking about :
 <br>
 {{</rawhtml >}}
 
-This is a scatter plot with 2 numerical variables as predictor, and the target variable is encoded in colors. Both X1 and X2 have a pretty strong correlation, and it seems that a simple linear classifier will do a great job classifying class A or B. 
+This is a scatter plot with 2 numerical variables as predictors, and the target variable is encoded in colors. Both X1 and X2 have a pretty strong correlation, and it seems that a simple linear classifier will do a great job classifying class A or B. 
 
 X1 and X2 above in fact have a correlation greater than 0.95. Now, If we drop one of X1 or X2 because of high correlation, now even the mightiest algorithm like CatBoost or any kind of boosting won’t help you. Why? the proof is left as an exercise to the reader ;)
 
