@@ -13,9 +13,6 @@ seo:
 layout: post
 thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
-excerpt: >-
-  Dropping highly correlated features is one common techniques for feature
-  selection. While i simple, it can be disasterous on some condition, 
 ---
 ## Lorem ipsum
 
