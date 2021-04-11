@@ -33,9 +33,6 @@ params:
       - label: About Me
         url: /about/
         style: link
-      - label: Contact
-        url: /contact/
-        style: link
     has_social: true
     social_links:
       - label: GitHub
