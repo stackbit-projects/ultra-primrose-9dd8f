@@ -1,8 +1,8 @@
 {{ range $tag := .Params.tags }}
     {{ if eq $tag "Python" }}
-    <span class="Python" style="background-color: {{ $.Site.Params.color.Python }};">{{ $tag }}</span>
+    <span class="tag" style="background-color: {{ $.Site.Params.color.Python }};">{{ $tag }}</span>
     {{ else if eq $tag "Math-Statistics" }}
-    <span class="Math-Statistics" style="background-color: {{ $.Site.Params.color.Math_Statistics }};">{{ $tag }}</span>
+    <span class="tag" style="background-color: {{ $.Site.Params.color.Math_Statistics }};">{{ $tag }}</span>
     {{ else if eq $tag "Julia" }}
     <span class="tag style="background-color: {{ $.Site.Params.color.Julia }};">{{ $tag }}</span>
     {{ else }}
