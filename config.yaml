@@ -4,11 +4,11 @@ params:
   googleAnalyticsID: G-4NGBF2S8VM
   layout_style: overflow
   palette: green
-  color: 
-    Python : "#306998"
-    Julia : "#9558B2"
-    Statistics : "#c90e0e"
-    Optimization : "#3ddbce"
+  color:
+    Python: '#306998'
+    Julia: '#9558B2'
+    Statistics: '#c90e0e'
+    Optimization: '#3ddbce'
   header:
     title: Vinson Ciawandy
     tagline: Data Science | Analytics | Mathematics
@@ -23,7 +23,7 @@ params:
       - label: Search tags
         url: /tags
         style: link
-        icon_class: dev
+        icon_class: facebook
         new_window: false
         no_follow: false
         type: action
