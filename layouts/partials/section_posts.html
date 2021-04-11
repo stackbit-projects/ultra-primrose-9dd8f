@@ -16,12 +16,14 @@
           <header class="post-header">
             <h3 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h3>
           </header>
-          
+
           {{ if $post.Params.excerpt }}
           <div class="post-content">
             <p>{{ $post.Params.excerpt }}</p>
           </div>
           {{ end }}
+
+          
 
           <footer class="post-meta">
             <time class="published"
