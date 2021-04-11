@@ -1,6 +1,6 @@
 ---
 title: Tags
-subtitle: Thanks for showing you enthutiasm
+subtitle: You are special for me since you click this page.
 img_alt: lorem-ipsum
 seo:
   title: ''
