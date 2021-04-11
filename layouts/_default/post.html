@@ -25,7 +25,7 @@
   
   <div class="next-post">
     {{ if .NextPage }}
-    
+    Previous post
 	<a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
 	{{ end }}
 </div>
