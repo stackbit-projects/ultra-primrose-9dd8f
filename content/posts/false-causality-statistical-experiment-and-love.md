@@ -23,6 +23,10 @@ excerpt: >-
 ---
 <cite>Original photo by [Daria Shevtsova](https://www.pexels.com/id-id/@daria?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/id-id/foto/wanita-dengan-kemeja-flanel-bergaris-biru-memegang-buku-di-dalam-ruangan-698928/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) </cite>
 
+This post is a series of Statistical Fallacies series. Read other’s post about statistical fallacies : 
+- [False Causality - Statistical Experiment and Love](https://vinson2233.netlify.app/posts/false-causality-statistical-experiment-and-love/)
+- [Danger of Summary Metrics - Correlated Variables](https://vinson2233.netlify.app/posts/danger-of-summary-metrics-correlated-variables)
+
 # Brief intro to Statistical Fallacies  
 
 So, what are Statistical Fallacies?
