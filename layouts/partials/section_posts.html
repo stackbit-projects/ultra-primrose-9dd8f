@@ -23,7 +23,11 @@
           </div>
           {{ end }}
 
-          
+          {{ if $post.Params.excerpt }}
+          <div class="post-content">
+            <p>{{ $post.Params.excerpt }}</p>
+          </div>
+          {{ end }}
 
           <footer class="post-meta">
             <time class="published"
