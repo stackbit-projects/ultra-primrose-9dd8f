@@ -10,9 +10,6 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+## But sadly
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+This feature is still under development :)
