@@ -1,11 +1,11 @@
 {{ range $tag := .Params.tags }}
     {{ if eq $tag "Python" }}
     <span class="tag" style="background-color: {{ $.Site.Params.color.Python }};">{{ $tag }}</span>
-    {{ else if eq $tag "Math-Statistics" }}
+    {{ else if eq $tag "Statistics" }}
     <span class="tag" style="background-color: {{ $.Site.Params.color.Math_Statistics }};">{{ $tag }}</span>
     {{ else if eq $tag "Julia" }}
     <span class="tag" style="background-color: {{ $.Site.Params.color.Julia }};">{{ $tag }}</span>
-    {{ else if eq $tag "Julia" }}
+    {{ else if eq $tag "Optimization" }}
     <span class="tag" style="background-color: {{ $.Site.Params.color.Julia }};">{{ $tag }}</span>
     {{ else }}
     <span class="tag" style="background-color: #423939;">{{ $tag }}</span> 
