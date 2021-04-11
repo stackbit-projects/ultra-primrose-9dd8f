@@ -14,4 +14,6 @@ layout: page
 
 This feature is still under development :)
 
-There are only 6 post so far, so clicking
+# Meanwhile
+
+There are only 6 posts so far, so clicking POSTS on the left side will show you all my  article
