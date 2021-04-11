@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: https://ik.imagekit.io/pwhcix71iqy/summary-statistics-correlation/summary-statistics_emLzlXhm2yC.jpg
-content_img_path: images/intro.jpg
+content_img_path: https://ik.imagekit.io/pwhcix71iqy/summary-statistics-correlation/summary-statistics_emLzlXhm2yC.jpg
 excerpt: >-
   "X1 and X2 have a super high correlation, let's drop one of them for feature
   selection".  Are really sure about that?
