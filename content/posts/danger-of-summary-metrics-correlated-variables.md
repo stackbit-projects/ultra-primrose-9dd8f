@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Danger of Summary Metrics - Correlated Variables
 subtitle: lorem-ipsum
 date: '2021-04-11'
 thumb_img_alt: lorem-ipsum
