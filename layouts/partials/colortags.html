@@ -1,3 +1,3 @@
 {{ range $tag := .Params.tags }}
-    <span class="tag" style="background-color: {{ $.Site.Params.{$tag} }};">{{ $tag }}</span>
+    <span class="tag" style="background-color: {{ $.Site.Params.$tag }};">{{ $tag }}</span>
 {{end}}
