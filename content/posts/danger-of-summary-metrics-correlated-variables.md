@@ -17,7 +17,7 @@ excerpt: >-
   "X1 and X2 have a super high correlation, let's drop one of them for feature
   selection".  Are really sure about that?
 ---
-<cite>Foto oleh Asep Syaeful Bahri dari Pexels</cite>
+<cite>Original photo by Asep Syaeful Bahri dari Pexels</cite>
 
 This post is a series of Statistical Fallacies series. Read other’s post about statistical fallacies : 
 - [False Causality - Statistical Experiment and Love](https://vinson2233.netlify.app/posts/false-causality-statistical-experiment-and-love/)
