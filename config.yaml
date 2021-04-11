@@ -15,7 +15,7 @@ params:
       - label: Home
         url: /
         style: link
-      - label: lorem-ipsum
+      - label: Search tags
         url: '#'
         style: link
         icon_class: dev
