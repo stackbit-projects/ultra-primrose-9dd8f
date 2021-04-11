@@ -14,7 +14,7 @@ layout: post
 thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
 excerpt: >-
-  So you want to do feature selection ? Find the correlated features and drop
+  So you want a simple feature selection ? Find the correlated features and drop
   them. 
 ---
 ## Lorem ipsum
