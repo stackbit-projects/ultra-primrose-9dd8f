@@ -68,7 +68,8 @@ Here’s the chart of previous data after transformed with PCA
 
 The first component has explained the variance ratio
 0.99713768 and the second component have 0.00286232. Also, each component are orthogonal(just my fancy way to say the features are uncorrelated)
-It looks like another simple linear classifier will make make a great job to classify class A and B. Again if we drop the second component just because it has really tiny explainability, what would happen to the classification? 
+It looks like another simple linear classifier will make make a great job to classify class A and B.  
+Now if we drop the second component just because it has really tiny explainability, what would happen to the classification? 
 
 # Conclusion
  So, yeah. We have tons of awesome tools to analyze the data, but using it blindly can hurt the analysis. Numeric EDA which bases on the summary value gives a fast way to interpret the data, but visualization tends to give a bigger picture than just some number. 
