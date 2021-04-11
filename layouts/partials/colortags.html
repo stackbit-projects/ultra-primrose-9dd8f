@@ -6,7 +6,7 @@
     {{ else if eq $tag "Julia" }}
     <span class="tag" style="background-color: {{ $.Site.Params.color.Julia }};">{{ $tag }}</span>
     {{ else if eq $tag "Optimization" }}
-    <span class="tag" style="background-color: {{ $.Site.Params.color.Optimization }};">{{ $tag }}{{ $.Site.Params.color.Optimization }}</span>
+    <span class="tag" style="background-color: {{ $.Site.Params.color.Optimization }};">{{ $tag }} {{ $.Site.Params.color.Optimization }}</span>
     {{ else }}
     <span class="tag" style="background-color: #423939;">{{ $tag }}</span> 
     {{ end }}
