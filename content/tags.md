@@ -16,4 +16,4 @@ This feature is still under development :)
 
 # Meanwhile
 
-There are only 6 posts so far, so clicking POSTS on the left side will show you all my  article
+There are only 6 posts so far, so clicking POSTS on the left side will show you all my  articles
