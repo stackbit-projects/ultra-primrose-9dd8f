@@ -13,6 +13,7 @@ seo:
 layout: post
 thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
+excerpt: 'It can be dangerous '
 ---
 ## Lorem ipsum
 
