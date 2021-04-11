@@ -15,7 +15,7 @@ thumb_img_path: images/intro.jpg
 content_img_path: images/intro.jpg
 excerpt: >-
   Dropping highly correlated features is one common techniques for feature
-  selection, 
+  selection. While
 ---
 ## Lorem ipsum
 
