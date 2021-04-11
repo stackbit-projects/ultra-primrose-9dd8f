@@ -1,6 +1,6 @@
 ---
 title: Danger of Summary Metrics - Correlated Variables
-subtitle: Danger of Summary Metrics not only
+subtitle: How different data can fall into same value and blind our analysis
 date: '2021-04-11'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
