@@ -57,7 +57,14 @@ X1 and X2 above in fact have a correlation greater than 0.95. Now, If we drop on
 Okay, now you know that blindly trusting correlation value might hurt your data and yourself. So you decided to use another preprocessing step for your correlated variables, named Principal Component Analysis (PCA), and decide to take the top K variables with a cumulative sum of explained variance equal to a certain threshold, maybe 95%
 
 Some people said that PCA-result with 95% explained variance = data is 95% similar to the original one. Well, this statement is not wrong, but you’ll miss the important insight for believing that statement.
-Here’s the chart of previous data after PCA
+Here’s the chart of previous data after transformed with PCA
+
+{{<rawhtml>}}
+<div align="center">
+    <img src="https://ik.imagekit.io/pwhcix71iqy/summary-statistics-correlation/Screen_Shot_2021-04-11_at_13.48.50_nhLcE9EZU.png" width="60%"> </img>
+</div>
+<br>
+{{</rawhtml >}}
 
 The first component has explained the variance ratio
 0.99713768 and the second component have 0.00286232. Also, each component are orthogonal(just my fancy way to say the features are uncorrelated)
