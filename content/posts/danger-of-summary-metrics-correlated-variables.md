@@ -18,7 +18,7 @@ excerpt: >-
   selection".  Are really sure about that?
 ---
 This post is a series of Statistical Fallacies series. Read other’s post about statistical fallacies : 
-- False Causality - Statistical Experiment and Love
+- False Causality - Statistical Experiment and Love]
 
 # Background
 
